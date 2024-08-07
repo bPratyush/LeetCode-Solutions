@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0134-gas-station](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0134-gas-station) |
+| [0152-maximum-product-subarray](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0300-longest-increasing-subsequence](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/bPratyush/LeetCode-Solutions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
@@ -43,5 +44,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0152-maximum-product-subarray](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0152-maximum-product-subarray) |
 | [0300-longest-increasing-subsequence](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
