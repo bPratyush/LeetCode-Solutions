@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0055-jump-game](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0057-insert-interval) |
+| [0064-minimum-path-sum](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0042-trapping-rain-water](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0055-jump-game) |
+| [0064-minimum-path-sum](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0072-edit-distance) |
 | [0120-triangle](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0120-triangle) |
@@ -269,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0036-valid-sudoku](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
+| [0064-minimum-path-sum](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0130-surrounded-regions](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0200-number-of-islands) |
