@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0042-trapping-rain-water](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/bPratyush/LeetCode-Solutions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0058-length-of-last-word) |
 | [0072-edit-distance](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0072-edit-distance) |
+| [0125-valid-palindrome](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [1250-longest-common-subsequence](https://github.com/bPratyush/LeetCode-Solutions/tree/master/1250-longest-common-subsequence) |
 ## Breadth-First Search
