@@ -190,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0173-binary-search-tree-iterator](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0173-binary-search-tree-iterator) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Depth-First Search
 |  |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0173-binary-search-tree-iterator](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0173-binary-search-tree-iterator) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Matrix
 |  |
@@ -251,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0146-lru-cache](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0155-min-stack) |
+| [0173-binary-search-tree-iterator](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0173-binary-search-tree-iterator) |
 | [0380-insert-delete-getrandom-o1](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0380-insert-delete-getrandom-o1) |
 ## Randomized
 |  |
@@ -268,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0155-min-stack) |
+| [0173-binary-search-tree-iterator](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0173-binary-search-tree-iterator) |
 | [0224-basic-calculator](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0224-basic-calculator) |
 ## Monotonic Stack
 |  |
@@ -318,4 +322,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0146-lru-cache) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0173-binary-search-tree-iterator) |
+## Iterator
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0173-binary-search-tree-iterator) |
 <!---LeetCode Topics End-->
