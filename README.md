@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0012-integer-to-roman](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
+| [0058-length-of-last-word](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0058-length-of-last-word) |
 | [0072-edit-distance](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0072-edit-distance) |
 | [1250-longest-common-subsequence](https://github.com/bPratyush/LeetCode-Solutions/tree/master/1250-longest-common-subsequence) |
 ## Breadth-First Search
