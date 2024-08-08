@@ -209,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0155-min-stack) |
 | [0380-insert-delete-getrandom-o1](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0380-insert-delete-getrandom-o1) |
 ## Randomized
 |  |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
+| [0155-min-stack](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0155-min-stack) |
 ## Monotonic Stack
 |  |
 | ------- |
