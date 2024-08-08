@@ -188,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0133-clone-graph](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0133-clone-graph) |
 | [0199-binary-tree-right-side-view](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0207-course-schedule) |
 | [0322-coin-change](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0322-coin-change) |
 | [0399-evaluate-division](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0399-evaluate-division) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0133-clone-graph](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0133-clone-graph) |
 | [0199-binary-tree-right-side-view](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0207-course-schedule) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0399-evaluate-division](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0399-evaluate-division) |
@@ -379,9 +381,14 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0133-clone-graph) |
+| [0207-course-schedule](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0207-course-schedule) |
 | [0399-evaluate-division](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0399-evaluate-division) |
 ## Shortest Path
 |  |
 | ------- |
 | [0399-evaluate-division](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0399-evaluate-division) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
