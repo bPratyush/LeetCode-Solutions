@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0209-minimum-size-subarray-sum](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0274-h-index) |
+| [0289-game-of-life](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0289-game-of-life) |
 | [0300-longest-increasing-subsequence](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0322-coin-change) |
 | [0380-insert-delete-getrandom-o1](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0380-insert-delete-getrandom-o1) |
@@ -155,11 +156,13 @@ A collection of LeetCode questions to ace the coding interview!
 | [0048-rotate-image](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
+| [0289-game-of-life](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0289-game-of-life) |
 | [0921-spiral-matrix-iii](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0921-spiral-matrix-iii) |
 ## Simulation
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
+| [0289-game-of-life](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0289-game-of-life) |
 | [0921-spiral-matrix-iii](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0921-spiral-matrix-iii) |
 ## Math
 |  |
