@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0238-product-of-array-except-self](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0274-h-index) |
 | [0275-h-index-ii](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0275-h-index-ii) |
+| [0283-move-zeroes](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0289-game-of-life](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0289-game-of-life) |
 | [0300-longest-increasing-subsequence](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0322-coin-change) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0202-happy-number) |
+| [0283-move-zeroes](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0443-string-compression) |
