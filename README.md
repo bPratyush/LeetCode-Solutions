@@ -524,5 +524,6 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0046-permutations](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0047-permutations-ii) |
+| [0077-combinations](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0077-combinations) |
 | [0126-word-ladder-ii](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0126-word-ladder-ii) |
 <!---LeetCode Topics End-->
