@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0575-distribute-candies](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0575-distribute-candies) |
 | [0605-can-place-flowers](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0643-maximum-average-subarray-i) |
+| [0721-accounts-merge](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0733-flood-fill) |
 | [0870-magic-squares-in-grid](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0921-spiral-matrix-iii) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0242-valid-anagram](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0274-h-index](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0274-h-index) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0721-accounts-merge](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0721-accounts-merge) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/bPratyush/LeetCode-Solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/bPratyush/LeetCode-Solutions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/bPratyush/LeetCode-Solutions/tree/master/1798-max-number-of-k-sum-pairs) |
@@ -181,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0383-ransom-note](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0383-ransom-note) |
 | [0525-contiguous-array](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0525-contiguous-array) |
 | [0575-distribute-candies](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0575-distribute-candies) |
+| [0721-accounts-merge](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0721-accounts-merge) |
 | [0870-magic-squares-in-grid](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0870-magic-squares-in-grid) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0999-regions-cut-by-slashes](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0999-regions-cut-by-slashes) |
@@ -254,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0392-is-subsequence](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0392-is-subsequence) |
 | [0399-evaluate-division](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0399-evaluate-division) |
 | [0443-string-compression](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0443-string-compression) |
+| [0721-accounts-merge](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0721-accounts-merge) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/bPratyush/LeetCode-Solutions/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1250-longest-common-subsequence](https://github.com/bPratyush/LeetCode-Solutions/tree/master/1250-longest-common-subsequence) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/bPratyush/LeetCode-Solutions/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -280,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0399-evaluate-division](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0399-evaluate-division) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0721-accounts-merge](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0733-flood-fill) |
 | [0999-regions-cut-by-slashes](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0999-regions-cut-by-slashes) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/bPratyush/LeetCode-Solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -335,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0399-evaluate-division](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0399-evaluate-division) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0721-accounts-merge](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0733-flood-fill) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0999-regions-cut-by-slashes](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0999-regions-cut-by-slashes) |
@@ -474,6 +480,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0130-surrounded-regions](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0200-number-of-islands) |
 | [0399-evaluate-division](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0399-evaluate-division) |
+| [0721-accounts-merge](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0721-accounts-merge) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0999-regions-cut-by-slashes](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0999-regions-cut-by-slashes) |
 ## Recursion
