@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1798-max-number-of-k-sum-pairs](https://github.com/bPratyush/LeetCode-Solutions/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1813-maximum-erasure-value](https://github.com/bPratyush/LeetCode-Solutions/tree/master/1813-maximum-erasure-value) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/bPratyush/LeetCode-Solutions/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [2119-minimum-number-of-operations-to-make-array-continuous](https://github.com/bPratyush/LeetCode-Solutions/tree/master/2119-minimum-number-of-operations-to-make-array-continuous) |
 ## Two Pointers
 |  |
 | ------- |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1646-kth-missing-positive-number](https://github.com/bPratyush/LeetCode-Solutions/tree/master/1646-kth-missing-positive-number) |
 | [1753-path-with-minimum-effort](https://github.com/bPratyush/LeetCode-Solutions/tree/master/1753-path-with-minimum-effort) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/bPratyush/LeetCode-Solutions/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [2119-minimum-number-of-operations-to-make-array-continuous](https://github.com/bPratyush/LeetCode-Solutions/tree/master/2119-minimum-number-of-operations-to-make-array-continuous) |
 ## Sorting
 |  |
 | ------- |
@@ -203,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/bPratyush/LeetCode-Solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/bPratyush/LeetCode-Solutions/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1813-maximum-erasure-value](https://github.com/bPratyush/LeetCode-Solutions/tree/master/1813-maximum-erasure-value) |
+| [2119-minimum-number-of-operations-to-make-array-continuous](https://github.com/bPratyush/LeetCode-Solutions/tree/master/2119-minimum-number-of-operations-to-make-array-continuous) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -511,6 +514,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/bPratyush/LeetCode-Solutions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1813-maximum-erasure-value](https://github.com/bPratyush/LeetCode-Solutions/tree/master/1813-maximum-erasure-value) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/bPratyush/LeetCode-Solutions/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [2119-minimum-number-of-operations-to-make-array-continuous](https://github.com/bPratyush/LeetCode-Solutions/tree/master/2119-minimum-number-of-operations-to-make-array-continuous) |
 ## Union Find
 |  |
 | ------- |
