@@ -211,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1798-max-number-of-k-sum-pairs](https://github.com/bPratyush/LeetCode-Solutions/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1813-maximum-erasure-value](https://github.com/bPratyush/LeetCode-Solutions/tree/master/1813-maximum-erasure-value) |
 | [2119-minimum-number-of-operations-to-make-array-continuous](https://github.com/bPratyush/LeetCode-Solutions/tree/master/2119-minimum-number-of-operations-to-make-array-continuous) |
+| [2186-count-vowel-substrings-of-a-string](https://github.com/bPratyush/LeetCode-Solutions/tree/master/2186-count-vowel-substrings-of-a-string) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -290,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/bPratyush/LeetCode-Solutions/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1894-merge-strings-alternately](https://github.com/bPratyush/LeetCode-Solutions/tree/master/1894-merge-strings-alternately) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/bPratyush/LeetCode-Solutions/tree/master/2134-maximize-the-confusion-of-an-exam) |
+| [2186-count-vowel-substrings-of-a-string](https://github.com/bPratyush/LeetCode-Solutions/tree/master/2186-count-vowel-substrings-of-a-string) |
 ## Breadth-First Search
 |  |
 | ------- |
