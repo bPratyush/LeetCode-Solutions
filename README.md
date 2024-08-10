@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0921-spiral-matrix-iii](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0921-spiral-matrix-iii) |
 | [0989-largest-component-size-by-common-factor](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0989-largest-component-size-by-common-factor) |
 | [0999-regions-cut-by-slashes](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0999-regions-cut-by-slashes) |
+| [1034-subarrays-with-k-different-integers](https://github.com/bPratyush/LeetCode-Solutions/tree/master/1034-subarrays-with-k-different-integers) |
 | [1046-max-consecutive-ones-iii](https://github.com/bPratyush/LeetCode-Solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/bPratyush/LeetCode-Solutions/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/bPratyush/LeetCode-Solutions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0989-largest-component-size-by-common-factor](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0989-largest-component-size-by-common-factor) |
 | [0999-regions-cut-by-slashes](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0999-regions-cut-by-slashes) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/bPratyush/LeetCode-Solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1034-subarrays-with-k-different-integers](https://github.com/bPratyush/LeetCode-Solutions/tree/master/1034-subarrays-with-k-different-integers) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/bPratyush/LeetCode-Solutions/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1813-maximum-erasure-value](https://github.com/bPratyush/LeetCode-Solutions/tree/master/1813-maximum-erasure-value) |
 | [2119-minimum-number-of-operations-to-make-array-continuous](https://github.com/bPratyush/LeetCode-Solutions/tree/master/2119-minimum-number-of-operations-to-make-array-continuous) |
@@ -218,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0169-majority-element](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0383-ransom-note) |
+| [1034-subarrays-with-k-different-integers](https://github.com/bPratyush/LeetCode-Solutions/tree/master/1034-subarrays-with-k-different-integers) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -511,6 +514,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0424-longest-repeating-character-replacement](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0643-maximum-average-subarray-i](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0713-subarray-product-less-than-k) |
+| [1034-subarrays-with-k-different-integers](https://github.com/bPratyush/LeetCode-Solutions/tree/master/1034-subarrays-with-k-different-integers) |
 | [1046-max-consecutive-ones-iii](https://github.com/bPratyush/LeetCode-Solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1321-get-equal-substrings-within-budget](https://github.com/bPratyush/LeetCode-Solutions/tree/master/1321-get-equal-substrings-within-budget) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/bPratyush/LeetCode-Solutions/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
