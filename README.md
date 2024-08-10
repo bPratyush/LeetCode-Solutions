@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0026-remove-duplicates-from-sorted-array](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0027-remove-element) |
 | [0036-valid-sudoku](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0037-sudoku-solver) |
 | [0040-combination-sum-ii](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0045-jump-game-ii) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0012-integer-to-roman](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [0036-valid-sudoku](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0076-minimum-window-substring) |
@@ -355,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0063-unique-paths-ii) |
@@ -523,6 +526,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0037-sudoku-solver) |
 | [0040-combination-sum-ii](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0047-permutations-ii) |
