@@ -185,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0290-word-pattern](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0290-word-pattern) |
 | [0380-insert-delete-getrandom-o1](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0383-ransom-note](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0383-ransom-note) |
+| [0424-longest-repeating-character-replacement](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0525-contiguous-array](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0525-contiguous-array) |
 | [0575-distribute-candies](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0575-distribute-candies) |
 | [0721-accounts-merge](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0721-accounts-merge) |
@@ -263,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0383-ransom-note](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0392-is-subsequence) |
 | [0399-evaluate-division](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0399-evaluate-division) |
+| [0424-longest-repeating-character-replacement](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0443-string-compression](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0443-string-compression) |
 | [0721-accounts-merge](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0721-accounts-merge) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/bPratyush/LeetCode-Solutions/tree/master/1146-greatest-common-divisor-of-strings) |
@@ -489,6 +491,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0076-minimum-window-substring](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0219-contains-duplicate-ii) |
+| [0424-longest-repeating-character-replacement](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0643-maximum-average-subarray-i](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [1046-max-consecutive-ones-iii](https://github.com/bPratyush/LeetCode-Solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/bPratyush/LeetCode-Solutions/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
