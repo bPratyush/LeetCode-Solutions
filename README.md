@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1753-path-with-minimum-effort](https://github.com/bPratyush/LeetCode-Solutions/tree/master/1753-path-with-minimum-effort) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/bPratyush/LeetCode-Solutions/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2119-minimum-number-of-operations-to-make-array-continuous](https://github.com/bPratyush/LeetCode-Solutions/tree/master/2119-minimum-number-of-operations-to-make-array-continuous) |
+| [2134-maximize-the-confusion-of-an-exam](https://github.com/bPratyush/LeetCode-Solutions/tree/master/2134-maximize-the-confusion-of-an-exam) |
 ## Sorting
 |  |
 | ------- |
@@ -283,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1321-get-equal-substrings-within-budget](https://github.com/bPratyush/LeetCode-Solutions/tree/master/1321-get-equal-substrings-within-budget) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/bPratyush/LeetCode-Solutions/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1894-merge-strings-alternately](https://github.com/bPratyush/LeetCode-Solutions/tree/master/1894-merge-strings-alternately) |
+| [2134-maximize-the-confusion-of-an-exam](https://github.com/bPratyush/LeetCode-Solutions/tree/master/2134-maximize-the-confusion-of-an-exam) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -470,6 +472,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1046-max-consecutive-ones-iii](https://github.com/bPratyush/LeetCode-Solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1321-get-equal-substrings-within-budget](https://github.com/bPratyush/LeetCode-Solutions/tree/master/1321-get-equal-substrings-within-budget) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/bPratyush/LeetCode-Solutions/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [2134-maximize-the-confusion-of-an-exam](https://github.com/bPratyush/LeetCode-Solutions/tree/master/2134-maximize-the-confusion-of-an-exam) |
 ## Stack
 |  |
 | ------- |
@@ -515,6 +518,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1813-maximum-erasure-value](https://github.com/bPratyush/LeetCode-Solutions/tree/master/1813-maximum-erasure-value) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/bPratyush/LeetCode-Solutions/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2119-minimum-number-of-operations-to-make-array-continuous](https://github.com/bPratyush/LeetCode-Solutions/tree/master/2119-minimum-number-of-operations-to-make-array-continuous) |
+| [2134-maximize-the-confusion-of-an-exam](https://github.com/bPratyush/LeetCode-Solutions/tree/master/2134-maximize-the-confusion-of-an-exam) |
 ## Union Find
 |  |
 | ------- |
