@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0399-evaluate-division](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0399-evaluate-division) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0518-coin-change-ii](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0518-coin-change-ii) |
+| [0525-contiguous-array](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0525-contiguous-array) |
 | [0575-distribute-candies](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0575-distribute-candies) |
 | [0605-can-place-flowers](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0643-maximum-average-subarray-i) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0290-word-pattern](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0290-word-pattern) |
 | [0380-insert-delete-getrandom-o1](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0383-ransom-note](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0383-ransom-note) |
+| [0525-contiguous-array](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0525-contiguous-array) |
 | [0575-distribute-candies](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0575-distribute-candies) |
 | [0870-magic-squares-in-grid](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0870-magic-squares-in-grid) |
 | [0999-regions-cut-by-slashes](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0999-regions-cut-by-slashes) |
@@ -404,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0238-product-of-array-except-self) |
+| [0525-contiguous-array](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0525-contiguous-array) |
 | [1046-max-consecutive-ones-iii](https://github.com/bPratyush/LeetCode-Solutions/tree/master/1046-max-consecutive-ones-iii) |
 ## Stack
 |  |
