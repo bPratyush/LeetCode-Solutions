@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0036-valid-sudoku](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0045-jump-game-ii) |
+| [0046-permutations](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
@@ -520,5 +521,6 @@ A collection of LeetCode questions to ace the coding interview!
 ## Backtracking
 |  |
 | ------- |
+| [0046-permutations](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0046-permutations) |
 | [0126-word-ladder-ii](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0126-word-ladder-ii) |
 <!---LeetCode Topics End-->
