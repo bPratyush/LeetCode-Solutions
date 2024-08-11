@@ -224,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0169-majority-element](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0169-majority-element) |
+| [0191-number-of-1-bits](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0191-number-of-1-bits) |
 ## Counting
 |  |
 | ------- |
@@ -611,6 +612,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Bit Manipulation
 |  |
 | ------- |
+| [0191-number-of-1-bits](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0191-number-of-1-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0371-sum-of-two-integers](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0371-sum-of-two-integers) |
 ## Graph
