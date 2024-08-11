@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0200-number-of-islands](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0213-house-robber-ii](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0213-house-robber-ii) |
+| [0217-contains-duplicate](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0221-maximal-square](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0221-maximal-square) |
 | [0228-summary-ranges](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0228-summary-ranges) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0056-merge-intervals](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0274-h-index) |
@@ -200,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0169-majority-element](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0205-isomorphic-strings) |
+| [0217-contains-duplicate](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0268-missing-number) |
