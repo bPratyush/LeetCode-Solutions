@@ -316,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0224-basic-calculator](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0224-basic-calculator) |
 | [0242-valid-anagram](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0290-word-pattern) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0345-reverse-vowels-of-a-string](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0392-is-subsequence) |
@@ -350,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0207-course-schedule](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0226-invert-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0322-coin-change](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0399-evaluate-division](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0399-evaluate-division) |
@@ -390,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0226-invert-binary-tree](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/bPratyush/LeetCode-Solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Depth-First Search
@@ -416,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0226-invert-binary-tree](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0399-evaluate-division](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0399-evaluate-division) |
 | [0417-pacific-atlantic-water-flow](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0417-pacific-atlantic-water-flow) |
@@ -457,6 +461,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0226-invert-binary-tree](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/bPratyush/LeetCode-Solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Matrix
@@ -519,6 +524,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0146-lru-cache](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0173-binary-search-tree-iterator) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0380-insert-delete-getrandom-o1](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0380-insert-delete-getrandom-o1) |
 ## Randomized
 |  |
