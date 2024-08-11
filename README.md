@@ -469,6 +469,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0189-rotate-array](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0202-happy-number) |
 | [0224-basic-calculator](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0224-basic-calculator) |
+| [0371-sum-of-two-integers](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0371-sum-of-two-integers) |
 | [0380-insert-delete-getrandom-o1](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0870-magic-squares-in-grid](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0870-magic-squares-in-grid) |
 | [0989-largest-component-size-by-common-factor](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0989-largest-component-size-by-common-factor) |
@@ -611,6 +612,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0222-count-complete-tree-nodes) |
+| [0371-sum-of-two-integers](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0371-sum-of-two-integers) |
 ## Graph
 |  |
 | ------- |
