@@ -242,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0070-climbing-stairs](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0085-maximal-rectangle) |
+| [0091-decode-ways](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0091-decode-ways) |
 | [0120-triangle](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -277,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0058-length-of-last-word](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0058-length-of-last-word) |
 | [0072-edit-distance](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0076-minimum-window-substring) |
+| [0091-decode-ways](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0091-decode-ways) |
 | [0125-valid-palindrome](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0126-word-ladder-ii](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0127-word-ladder) |
