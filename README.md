@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0221-maximal-square](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0221-maximal-square) |
 | [0228-summary-ranges](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0274-h-index) |
 | [0275-h-index-ii](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0275-h-index-ii) |
 | [0283-move-zeroes](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0283-move-zeroes) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0222-count-complete-tree-nodes) |
+| [0268-missing-number](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0275-h-index-ii](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0275-h-index-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [1046-max-consecutive-ones-iii](https://github.com/bPratyush/LeetCode-Solutions/tree/master/1046-max-consecutive-ones-iii) |
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0088-merge-sorted-array](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0274-h-index) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0721-accounts-merge](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0721-accounts-merge) |
@@ -199,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0205-isomorphic-strings](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0290-word-pattern) |
 | [0380-insert-delete-getrandom-o1](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0383-ransom-note](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0383-ransom-note) |
@@ -471,6 +475,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0189-rotate-array](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0202-happy-number) |
 | [0224-basic-calculator](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0224-basic-calculator) |
+| [0268-missing-number](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0371-sum-of-two-integers) |
 | [0380-insert-delete-getrandom-o1](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0870-magic-squares-in-grid](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0870-magic-squares-in-grid) |
@@ -615,6 +620,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0191-number-of-1-bits](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0191-number-of-1-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0222-count-complete-tree-nodes) |
+| [0268-missing-number](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0338-counting-bits) |
 | [0371-sum-of-two-integers](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0371-sum-of-two-integers) |
 ## Graph
