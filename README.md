@@ -427,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0721-accounts-merge](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0733-flood-fill) |
 | [0744-network-delay-time](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0744-network-delay-time) |
+| [0801-is-graph-bipartite](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0999-regions-cut-by-slashes](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0999-regions-cut-by-slashes) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/bPratyush/LeetCode-Solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -501,6 +502,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0721-accounts-merge](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0733-flood-fill) |
 | [0744-network-delay-time](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0744-network-delay-time) |
+| [0801-is-graph-bipartite](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0999-regions-cut-by-slashes](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0999-regions-cut-by-slashes) |
@@ -688,6 +690,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0399-evaluate-division](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0547-number-of-provinces) |
 | [0721-accounts-merge](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0721-accounts-merge) |
+| [0801-is-graph-bipartite](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0801-is-graph-bipartite) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0989-largest-component-size-by-common-factor](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0989-largest-component-size-by-common-factor) |
 | [0999-regions-cut-by-slashes](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0999-regions-cut-by-slashes) |
@@ -763,6 +766,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0399-evaluate-division](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0547-number-of-provinces) |
 | [0744-network-delay-time](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0744-network-delay-time) |
+| [0801-is-graph-bipartite](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1300-critical-connections-in-a-network](https://github.com/bPratyush/LeetCode-Solutions/tree/master/1300-critical-connections-in-a-network) |
