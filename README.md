@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0721-accounts-merge](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0733-flood-fill) |
+| [0794-swim-in-rising-water](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0794-swim-in-rising-water) |
 | [0854-making-a-large-island](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0854-making-a-large-island) |
 | [0870-magic-squares-in-grid](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0921-spiral-matrix-iii) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0268-missing-number](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0275-h-index-ii](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0275-h-index-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0300-longest-increasing-subsequence) |
+| [0794-swim-in-rising-water](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0794-swim-in-rising-water) |
 | [1046-max-consecutive-ones-iii](https://github.com/bPratyush/LeetCode-Solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1321-get-equal-substrings-within-budget](https://github.com/bPratyush/LeetCode-Solutions/tree/master/1321-get-equal-substrings-within-budget) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/bPratyush/LeetCode-Solutions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
@@ -430,6 +432,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0721-accounts-merge](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0733-flood-fill) |
 | [0744-network-delay-time](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0744-network-delay-time) |
+| [0794-swim-in-rising-water](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0794-swim-in-rising-water) |
 | [0801-is-graph-bipartite](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0854-making-a-large-island](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0854-making-a-large-island) |
@@ -507,6 +510,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0721-accounts-merge](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0733-flood-fill) |
 | [0744-network-delay-time](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0744-network-delay-time) |
+| [0794-swim-in-rising-water](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0794-swim-in-rising-water) |
 | [0801-is-graph-bipartite](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0854-making-a-large-island](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0854-making-a-large-island) |
@@ -569,6 +573,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0417-pacific-atlantic-water-flow](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0542-01-matrix](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0733-flood-fill) |
+| [0794-swim-in-rising-water](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0794-swim-in-rising-water) |
 | [0854-making-a-large-island](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0854-making-a-large-island) |
 | [0870-magic-squares-in-grid](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0921-spiral-matrix-iii) |
@@ -698,6 +703,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0399-evaluate-division](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0547-number-of-provinces) |
 | [0721-accounts-merge](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0721-accounts-merge) |
+| [0794-swim-in-rising-water](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0794-swim-in-rising-water) |
 | [0801-is-graph-bipartite](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0801-is-graph-bipartite) |
 | [0854-making-a-large-island](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0854-making-a-large-island) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0984-most-stones-removed-with-same-row-or-column) |
@@ -824,6 +830,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0347-top-k-frequent-elements](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0744-network-delay-time](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0744-network-delay-time) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0794-swim-in-rising-water](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0794-swim-in-rising-water) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1753-path-with-minimum-effort](https://github.com/bPratyush/LeetCode-Solutions/tree/master/1753-path-with-minimum-effort) |
 | [2379-maximum-total-importance-of-roads](https://github.com/bPratyush/LeetCode-Solutions/tree/master/2379-maximum-total-importance-of-roads) |
