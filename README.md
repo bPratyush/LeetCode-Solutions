@@ -306,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0494-target-sum](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0518-coin-change-ii) |
+| [0583-delete-operation-for-two-strings](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0583-delete-operation-for-two-strings) |
 | [0647-palindromic-substrings](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0647-palindromic-substrings) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0967-minimum-falling-path-sum](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0967-minimum-falling-path-sum) |
@@ -350,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0424-longest-repeating-character-replacement](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0443-string-compression](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0443-string-compression) |
 | [0516-longest-palindromic-subsequence](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0516-longest-palindromic-subsequence) |
+| [0583-delete-operation-for-two-strings](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0583-delete-operation-for-two-strings) |
 | [0647-palindromic-substrings](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0647-palindromic-substrings) |
 | [0721-accounts-merge](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0721-accounts-merge) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/bPratyush/LeetCode-Solutions/tree/master/1146-greatest-common-divisor-of-strings) |
