@@ -1,25 +1,26 @@
 class Solution {
 public:
-    void findcomb(int ind, vector<int>& arr, int target, set<vector<int>>& unique_combinations, vector<int>& ds) {
+    vector<vector<int>> combinationSum2(vector<int> &candidates, int target) {
+        sort(candidates.begin(), candidates.end());
+        vector<vector<int>> result;
+        vector<int> combination;
+        combination2(result, combination, candidates, target, 0);
+        return result;
+    }
+    void combination2(vector<vector<int>> &res, vector<int> &combination,
+                      vector<int> &candidates, int target, int index) {
         if (target == 0) {
-            unique_combinations.insert(ds);
+            res.push_back(combination);
             return;
         }
-        for (int i = ind; i < arr.size(); ++i) {
-            if (i > ind && arr[i] == arr[i-1]) continue;
-            if (arr[i] > target) break;
-            ds.push_back(arr[i]);
-            findcomb(i + 1, arr, target - arr[i], unique_combinations, ds);
-            ds.pop_back();
+        for (int i = index; i < candidates.size() && target >= candidates[i];
+             ++i) {
+            if (i == index || candidates[i] != candidates[i - 1]) {
+                combination.push_back(candidates[i]);
+                combination2(res, combination, candidates,
+                             target - candidates[i], i + 1);
+                combination.pop_back();
+            }
         }
-    }
-
-    vector<vector<int>> combinationSum2(vector<int>& candidates, int target) {
-        set<vector<int>> unique_combinations;
-        vector<int> ds;
-        sort(candidates.begin(), candidates.end()); 
-        findcomb(0, candidates, target, unique_combinations, ds);
-        vector<std::vector<int>> ans(unique_combinations.begin(), unique_combinations.end());
-        return ans;
     }
 };
