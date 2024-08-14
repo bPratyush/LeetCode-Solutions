@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0085-maximal-rectangle](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
+| [0090-subsets-ii](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0120-triangle](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0120-triangle) |
@@ -842,6 +843,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Bit Manipulation
 |  |
 | ------- |
+| [0090-subsets-ii](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0090-subsets-ii) |
 | [0190-reverse-bits](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0191-number-of-1-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0222-count-complete-tree-nodes) |
@@ -899,6 +901,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0047-permutations-ii](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0047-permutations-ii) |
 | [0077-combinations](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0077-combinations) |
 | [0079-word-search](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0079-word-search) |
+| [0090-subsets-ii](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0090-subsets-ii) |
 | [0126-word-ladder-ii](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0126-word-ladder-ii) |
 | [0131-palindrome-partitioning](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0131-palindrome-partitioning) |
 | [0494-target-sum](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0494-target-sum) |
