@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0575-distribute-candies](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0575-distribute-candies) |
 | [0605-can-place-flowers](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0643-maximum-average-subarray-i) |
+| [0645-set-mismatch](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0645-set-mismatch) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0713-subarray-product-less-than-k](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0435-non-overlapping-intervals](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0455-assign-cookies) |
+| [0645-set-mismatch](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0645-set-mismatch) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0721-accounts-merge](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0721-accounts-merge) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/bPratyush/LeetCode-Solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -287,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0424-longest-repeating-character-replacement](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0525-contiguous-array](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0525-contiguous-array) |
 | [0575-distribute-candies](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0575-distribute-candies) |
+| [0645-set-mismatch](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0645-set-mismatch) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0721-accounts-merge](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0721-accounts-merge) |
 | [0870-magic-squares-in-grid](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0870-magic-squares-in-grid) |
@@ -867,6 +870,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0287-find-the-duplicate-number](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0338-counting-bits) |
 | [0371-sum-of-two-integers](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0371-sum-of-two-integers) |
+| [0645-set-mismatch](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0645-set-mismatch) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/bPratyush/LeetCode-Solutions/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Graph
 |  |
