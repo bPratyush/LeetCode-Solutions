@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1129-longest-string-chain](https://github.com/bPratyush/LeetCode-Solutions/tree/master/1129-longest-string-chain) |
 | [1130-last-stone-weight-ii](https://github.com/bPratyush/LeetCode-Solutions/tree/master/1130-last-stone-weight-ii) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/bPratyush/LeetCode-Solutions/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1330-longest-arithmetic-subsequence-of-given-difference](https://github.com/bPratyush/LeetCode-Solutions/tree/master/1330-longest-arithmetic-subsequence-of-given-difference) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/bPratyush/LeetCode-Solutions/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1370-count-number-of-nice-subarrays](https://github.com/bPratyush/LeetCode-Solutions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/bPratyush/LeetCode-Solutions/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -346,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/bPratyush/LeetCode-Solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1034-subarrays-with-k-different-integers](https://github.com/bPratyush/LeetCode-Solutions/tree/master/1034-subarrays-with-k-different-integers) |
 | [1129-longest-string-chain](https://github.com/bPratyush/LeetCode-Solutions/tree/master/1129-longest-string-chain) |
+| [1330-longest-arithmetic-subsequence-of-given-difference](https://github.com/bPratyush/LeetCode-Solutions/tree/master/1330-longest-arithmetic-subsequence-of-given-difference) |
 | [1370-count-number-of-nice-subarrays](https://github.com/bPratyush/LeetCode-Solutions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/bPratyush/LeetCode-Solutions/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1813-maximum-erasure-value](https://github.com/bPratyush/LeetCode-Solutions/tree/master/1813-maximum-erasure-value) |
@@ -436,6 +438,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1130-last-stone-weight-ii](https://github.com/bPratyush/LeetCode-Solutions/tree/master/1130-last-stone-weight-ii) |
 | [1170-shortest-common-supersequence](https://github.com/bPratyush/LeetCode-Solutions/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/bPratyush/LeetCode-Solutions/tree/master/1250-longest-common-subsequence) |
+| [1330-longest-arithmetic-subsequence-of-given-difference](https://github.com/bPratyush/LeetCode-Solutions/tree/master/1330-longest-arithmetic-subsequence-of-given-difference) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/bPratyush/LeetCode-Solutions/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/bPratyush/LeetCode-Solutions/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/bPratyush/LeetCode-Solutions/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
