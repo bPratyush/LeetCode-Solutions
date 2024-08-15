@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0991-array-of-doubled-pairs](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0991-array-of-doubled-pairs) |
 | [0999-regions-cut-by-slashes](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0999-regions-cut-by-slashes) |
 | [1014-k-closest-points-to-origin](https://github.com/bPratyush/LeetCode-Solutions/tree/master/1014-k-closest-points-to-origin) |
+| [1019-squares-of-a-sorted-array](https://github.com/bPratyush/LeetCode-Solutions/tree/master/1019-squares-of-a-sorted-array) |
 | [1034-subarrays-with-k-different-integers](https://github.com/bPratyush/LeetCode-Solutions/tree/master/1034-subarrays-with-k-different-integers) |
 | [1036-rotting-oranges](https://github.com/bPratyush/LeetCode-Solutions/tree/master/1036-rotting-oranges) |
 | [1046-max-consecutive-ones-iii](https://github.com/bPratyush/LeetCode-Solutions/tree/master/1046-max-consecutive-ones-iii) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0874-backspace-string-compare](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0874-backspace-string-compare) |
+| [1019-squares-of-a-sorted-array](https://github.com/bPratyush/LeetCode-Solutions/tree/master/1019-squares-of-a-sorted-array) |
 | [1129-longest-string-chain](https://github.com/bPratyush/LeetCode-Solutions/tree/master/1129-longest-string-chain) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/bPratyush/LeetCode-Solutions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/bPratyush/LeetCode-Solutions/tree/master/1798-max-number-of-k-sum-pairs) |
@@ -250,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0721-accounts-merge](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0721-accounts-merge) |
 | [0991-array-of-doubled-pairs](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0991-array-of-doubled-pairs) |
 | [1014-k-closest-points-to-origin](https://github.com/bPratyush/LeetCode-Solutions/tree/master/1014-k-closest-points-to-origin) |
+| [1019-squares-of-a-sorted-array](https://github.com/bPratyush/LeetCode-Solutions/tree/master/1019-squares-of-a-sorted-array) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/bPratyush/LeetCode-Solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1129-longest-string-chain](https://github.com/bPratyush/LeetCode-Solutions/tree/master/1129-longest-string-chain) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/bPratyush/LeetCode-Solutions/tree/master/1352-maximum-profit-in-job-scheduling) |
