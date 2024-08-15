@@ -698,6 +698,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0380-insert-delete-getrandom-o1](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0937-online-stock-span](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0937-online-stock-span) |
 ## Randomized
 |  |
 | ------- |
@@ -732,6 +733,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0232-implement-queue-using-stacks](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0678-valid-parenthesis-string](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
+| [0937-online-stock-span](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0937-online-stock-span) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/bPratyush/LeetCode-Solutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Monotonic Stack
 |  |
@@ -739,6 +741,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0042-trapping-rain-water](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0085-maximal-rectangle) |
+| [0937-online-stock-span](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0937-online-stock-span) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/bPratyush/LeetCode-Solutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Trie
 |  |
@@ -969,6 +972,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0295-find-median-from-data-stream) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0937-online-stock-span](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0937-online-stock-span) |
 ## Ordered Set
 |  |
 | ------- |
