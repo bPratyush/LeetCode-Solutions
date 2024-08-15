@@ -1,14 +1,17 @@
 class Solution {
 public:
-    bool ispal(string s){
-        int l=0,r=s.size()-1;
-        while(l<=r){
-            if(s[l++]!=s[r--]) return false;
-        }
-        return true;
+int stringrev(int x) {
+    int r = 0;
+    while (x != 0) {
+        if (r > (INT_MAX - x % 10) / 10) return 0;
+        r = r * 10 + x % 10;
+        x /= 10;
     }
-    bool isPalindrome(int x) {
-        string s=to_string(x);
-        return ispal(s);
-    }
+    return r;
+}
+
+bool isPalindrome(int x) {
+    if (x < 0) return false;
+    return x == stringrev(x);
+}
 };
