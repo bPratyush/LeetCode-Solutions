@@ -8,6 +8,5 @@ public:
             b = carry << 1;
         }
         return a;
-        
     }
 };
