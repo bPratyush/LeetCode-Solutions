@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0967-minimum-falling-path-sum](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0967-minimum-falling-path-sum) |
 | [0989-largest-component-size-by-common-factor](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0989-largest-component-size-by-common-factor) |
 | [0999-regions-cut-by-slashes](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0999-regions-cut-by-slashes) |
+| [1014-k-closest-points-to-origin](https://github.com/bPratyush/LeetCode-Solutions/tree/master/1014-k-closest-points-to-origin) |
 | [1034-subarrays-with-k-different-integers](https://github.com/bPratyush/LeetCode-Solutions/tree/master/1034-subarrays-with-k-different-integers) |
 | [1036-rotting-oranges](https://github.com/bPratyush/LeetCode-Solutions/tree/master/1036-rotting-oranges) |
 | [1046-max-consecutive-ones-iii](https://github.com/bPratyush/LeetCode-Solutions/tree/master/1046-max-consecutive-ones-iii) |
@@ -231,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0645-set-mismatch](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0645-set-mismatch) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0721-accounts-merge](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0721-accounts-merge) |
+| [1014-k-closest-points-to-origin](https://github.com/bPratyush/LeetCode-Solutions/tree/master/1014-k-closest-points-to-origin) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/bPratyush/LeetCode-Solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1129-longest-string-chain](https://github.com/bPratyush/LeetCode-Solutions/tree/master/1129-longest-string-chain) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/bPratyush/LeetCode-Solutions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
@@ -329,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0190-reverse-bits](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0191-number-of-1-bits) |
 | [0347-top-k-frequent-elements](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
+| [1014-k-closest-points-to-origin](https://github.com/bPratyush/LeetCode-Solutions/tree/master/1014-k-closest-points-to-origin) |
 ## Counting
 |  |
 | ------- |
@@ -702,6 +705,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0380-insert-delete-getrandom-o1](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0870-magic-squares-in-grid](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0870-magic-squares-in-grid) |
 | [0989-largest-component-size-by-common-factor](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0989-largest-component-size-by-common-factor) |
+| [1014-k-closest-points-to-origin](https://github.com/bPratyush/LeetCode-Solutions/tree/master/1014-k-closest-points-to-origin) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/bPratyush/LeetCode-Solutions/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1370-count-number-of-nice-subarrays](https://github.com/bPratyush/LeetCode-Solutions/tree/master/1370-count-number-of-nice-subarrays) |
 ## Counting Sort
@@ -960,6 +964,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0789-kth-largest-element-in-a-stream](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0794-swim-in-rising-water](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0794-swim-in-rising-water) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0803-cheapest-flights-within-k-stops) |
+| [1014-k-closest-points-to-origin](https://github.com/bPratyush/LeetCode-Solutions/tree/master/1014-k-closest-points-to-origin) |
 | [1753-path-with-minimum-effort](https://github.com/bPratyush/LeetCode-Solutions/tree/master/1753-path-with-minimum-effort) |
 | [2379-maximum-total-importance-of-roads](https://github.com/bPratyush/LeetCode-Solutions/tree/master/2379-maximum-total-importance-of-roads) |
 ## Biconnected Component
@@ -998,6 +1003,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
+| [1014-k-closest-points-to-origin](https://github.com/bPratyush/LeetCode-Solutions/tree/master/1014-k-closest-points-to-origin) |
 ## Data Stream
 |  |
 | ------- |
@@ -1029,4 +1035,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0278-first-bad-version) |
+## Geometry
+|  |
+| ------- |
+| [1014-k-closest-points-to-origin](https://github.com/bPratyush/LeetCode-Solutions/tree/master/1014-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
