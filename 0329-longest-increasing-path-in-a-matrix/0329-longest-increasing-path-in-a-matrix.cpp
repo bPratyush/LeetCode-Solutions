@@ -1,27 +1,33 @@
 class Solution {
 public:
-    vector<vector<int>> dp;
-    int m, n;
-    int fun(int i, int j, vector<vector<int>>& matrix){
-        if(dp[i][j]!=-1) return dp[i][j];
-        int cnt = 1;
-        if(i>0 && matrix[i-1][j]<matrix[i][j])  cnt = max(cnt, 1+fun(i-1, j, matrix));
-        if(j>0 && matrix[i][j-1]<matrix[i][j])  cnt = max(cnt, 1+fun(i, j-1, matrix));
-        if((i+1)<m && matrix[i+1][j]<matrix[i][j]) cnt = max(cnt, 1+fun(i+1, j, matrix));
-        if((j+1)<n && matrix[i][j+1]<matrix[i][j]) cnt = max(cnt, 1+fun(i, j+1, matrix));
-        return dp[i][j] = cnt;
-    }
-    int longestIncreasingPath(vector<vector<int>>& matrix) {
-        m = matrix.size(), n = matrix[0].size();
-        dp.resize(m, vector<int>(n, -1));
-        int ans = 1;
-        for(int i=0;i<m;i++){
-            for(int j=0;j<n;j++){
-                ans = max(ans, fun(i, j, matrix));
+    int dfs(vector<vector<int>>& matrix, vector<vector<int>>& vis, int i, int j) {
+        if (vis[i][j] != 0) return vis[i][j];
+        int drow[] = {-1, 0, 1, 0};
+        int dcol[] = {0, 1, 0, -1};
+        int longestPath = 1;
+        for (int k = 0; k < 4; k++) {
+            int newRow = i + drow[k];
+            int newCol = j + dcol[k];
+            if (newRow >= 0 && newRow < matrix.size() && newCol >= 0 && newCol < matrix[0].size() && matrix[newRow][newCol] > matrix[i][j]) {
+                longestPath = max(longestPath, 1 + dfs(matrix, vis, newRow, newCol));
             }
         }
-        return ans;
+        vis[i][j] = longestPath;
+        return longestPath;
+    }
+    
+    int longestIncreasingPath(vector<vector<int>>& matrix) {
+        if (matrix.empty()) return 0;
+        int rows = matrix.size();
+        int cols = matrix[0].size();
+        vector<vector<int>> vis(rows, vector<int>(cols, 0));
+        int longestPath = 0;
+        for (int i = 0; i < rows; i++) {
+            for (int j = 0; j < cols; j++) {
+                longestPath = max(longestPath, dfs(matrix, vis, i, j));
+            }
+        }
+        return longestPath;
     }
 };
-
 
