@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0870-magic-squares-in-grid](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0870-magic-squares-in-grid) |
 | [0879-maximize-distance-to-closest-person](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0879-maximize-distance-to-closest-person) |
 | [0890-lemonade-change](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0890-lemonade-change) |
+| [0912-random-pick-with-weight](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0912-random-pick-with-weight) |
 | [0921-spiral-matrix-iii](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0921-spiral-matrix-iii) |
 | [0966-binary-subarrays-with-sum](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0966-binary-subarrays-with-sum) |
 | [0967-minimum-falling-path-sum](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0967-minimum-falling-path-sum) |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0300-longest-increasing-subsequence](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0794-swim-in-rising-water](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0794-swim-in-rising-water) |
+| [0912-random-pick-with-weight](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0912-random-pick-with-weight) |
 | [1023-time-based-key-value-store](https://github.com/bPratyush/LeetCode-Solutions/tree/master/1023-time-based-key-value-store) |
 | [1046-max-consecutive-ones-iii](https://github.com/bPratyush/LeetCode-Solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1321-get-equal-substrings-within-budget](https://github.com/bPratyush/LeetCode-Solutions/tree/master/1321-get-equal-substrings-within-budget) |
@@ -733,6 +735,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0371-sum-of-two-integers](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0371-sum-of-two-integers) |
 | [0380-insert-delete-getrandom-o1](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0870-magic-squares-in-grid](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0870-magic-squares-in-grid) |
+| [0912-random-pick-with-weight](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0912-random-pick-with-weight) |
 | [0989-largest-component-size-by-common-factor](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0989-largest-component-size-by-common-factor) |
 | [1014-k-closest-points-to-origin](https://github.com/bPratyush/LeetCode-Solutions/tree/master/1014-k-closest-points-to-origin) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/bPratyush/LeetCode-Solutions/tree/master/1146-greatest-common-divisor-of-strings) |
@@ -760,6 +763,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0380-insert-delete-getrandom-o1) |
+| [0912-random-pick-with-weight](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0912-random-pick-with-weight) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -767,6 +771,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0238-product-of-array-except-self](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0525-contiguous-array](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0912-random-pick-with-weight](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0912-random-pick-with-weight) |
 | [0966-binary-subarrays-with-sum](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/bPratyush/LeetCode-Solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1321-get-equal-substrings-within-budget](https://github.com/bPratyush/LeetCode-Solutions/tree/master/1321-get-equal-substrings-within-budget) |
