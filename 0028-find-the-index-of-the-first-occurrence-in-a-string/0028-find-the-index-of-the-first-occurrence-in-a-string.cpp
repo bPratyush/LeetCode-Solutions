@@ -1,25 +1,10 @@
 class Solution {
-    typedef long long LL;
-
 public:
-    int strStr(string s, string t) {
-        int S = s.size(), T = t.size(), d = 128; 
-        if (!S || !T || T > S) return T ? -1 : 0;
-        LL m = 1e9+7, p = 1, hs = s[0], ht = t[0];
-        for (int i = 1; i < T; ++i) {
-            p = (p * d) % m; 
-            ht = (ht * d + t[i]) % m;
-            hs = (hs * d + s[i]) % m;
+    int strStr(string haystack, string needle) {
+        if (haystack.length() < needle.length()) return -1;
+        for (int i = 0; i <= haystack.length() - needle.length(); i++) {
+            if (haystack.substr(i, needle.length()) == needle) return i;
         }
-        for (int i = 0; i <= S - T; ++i) { 
-            if (hs == ht) { 
-                int j = 0;
-                for (; j < T && s[i + j] == t[j]; ++j);
-                if (j == T) return i;
-            }
-            if (i < S - T) hs = ((hs - s[i] * p) * d + s[i + T]) % m;
-            if (hs < 0) hs += m; 
-        }
-        return -1;
+        return -1;        
     }
 };
