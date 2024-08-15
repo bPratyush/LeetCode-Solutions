@@ -11,19 +11,20 @@
  */
 class Solution {
 public:
-    TreeNode* buildtree(vector<int>&inorder,int instart,int inend,vector<int>&postorder,int poststart, int postend, map<int,int> mpp){
-        if(instart>inend||poststart>postend) return NULL;
-        TreeNode* root=new TreeNode(postorder[postend]);
-        int inroot=mpp[postorder[postend]];
-        int lftree=inroot-instart;
-        root->left=buildtree(inorder,instart,inroot-1,postorder,poststart,poststart+lftree-1,mpp);
-        root->right=buildtree(inorder,inroot+1,inend,postorder,poststart+lftree,postend-1,mpp);
+    TreeNode* PostIn(vector<int>& inorder, int is, int ie, vector<int>& postorder, int ps, int pe, map<int,int>& hm) {
+        if (ps > pe || is > ie) return NULL;
+        TreeNode* root = new TreeNode(postorder[pe]);
+        int inRoot = hm[postorder[pe]];
+        int numsLeft = inRoot - is;
+        root->left = PostIn(inorder, is, inRoot - 1, postorder, ps, ps + numsLeft - 1, hm);
+        root->right = PostIn(inorder, inRoot + 1, ie, postorder, ps + numsLeft, pe - 1, hm);
         return root;
     }
+
     TreeNode* buildTree(vector<int>& inorder, vector<int>& postorder) {
-        if(inorder.size()!=postorder.size()) return NULL;
-        map<int,int> mpp;
-        for(int i=0;i<inorder.size();i++) mpp[inorder[i]]=i;
-        return buildtree(inorder,0,inorder.size()-1,postorder,0,postorder.size()-1,mpp);
+        if (inorder.size() != postorder.size()) return NULL;
+        map<int, int> hm;
+        for (int i = 0; i < inorder.size(); i++) hm[inorder[i]] = i;
+        return PostIn(inorder, 0, inorder.size() - 1, postorder, 0, postorder.size() - 1, hm);
     }
 };
