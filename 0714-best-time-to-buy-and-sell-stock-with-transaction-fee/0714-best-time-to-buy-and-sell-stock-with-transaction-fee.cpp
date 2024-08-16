@@ -1,12 +1,12 @@
 class Solution {
 public:
     int maxProfit(vector<int>& prices, int fee) {
-        int buy=INT_MIN;
-        int sell= 0;
+        int buyprofit=INT_MIN;
+        int sellprofit=0;
         for(auto price : prices){
-            buy = max(buy,sell-price);
-            sell = max(sell , buy+price-fee);
+            buyprofit = max(buyprofit,sellprofit-price);
+            sellprofit = max(sellprofit , buyprofit+price-fee);
         }
-        return sell;
+        return sellprofit;
     }
 };
