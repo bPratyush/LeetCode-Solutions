@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0921-spiral-matrix-iii](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0921-spiral-matrix-iii) |
 | [0966-binary-subarrays-with-sum](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0966-binary-subarrays-with-sum) |
 | [0967-minimum-falling-path-sum](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0967-minimum-falling-path-sum) |
+| [0982-minimum-increment-to-make-array-unique](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [0989-largest-component-size-by-common-factor](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0989-largest-component-size-by-common-factor) |
 | [0991-array-of-doubled-pairs](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0991-array-of-doubled-pairs) |
 | [0999-regions-cut-by-slashes](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0999-regions-cut-by-slashes) |
@@ -262,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0692-top-k-frequent-words](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0692-top-k-frequent-words) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0721-accounts-merge](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0721-accounts-merge) |
+| [0982-minimum-increment-to-make-array-unique](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [0991-array-of-doubled-pairs](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0991-array-of-doubled-pairs) |
 | [1014-k-closest-points-to-origin](https://github.com/bPratyush/LeetCode-Solutions/tree/master/1014-k-closest-points-to-origin) |
 | [1019-squares-of-a-sorted-array](https://github.com/bPratyush/LeetCode-Solutions/tree/master/1019-squares-of-a-sorted-array) |
@@ -294,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0678-valid-parenthesis-string](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0890-lemonade-change](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0890-lemonade-change) |
+| [0982-minimum-increment-to-make-array-unique](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [0991-array-of-doubled-pairs](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0991-array-of-doubled-pairs) |
 | [1388-greatest-sum-divisible-by-three](https://github.com/bPratyush/LeetCode-Solutions/tree/master/1388-greatest-sum-divisible-by-three) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/bPratyush/LeetCode-Solutions/tree/master/1966-frequency-of-the-most-frequent-element) |
@@ -387,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0383-ransom-note](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0383-ransom-note) |
 | [0621-task-scheduler](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0692-top-k-frequent-words) |
+| [0982-minimum-increment-to-make-array-unique](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1034-subarrays-with-k-different-integers](https://github.com/bPratyush/LeetCode-Solutions/tree/master/1034-subarrays-with-k-different-integers) |
 ## Dynamic Programming
 |  |
