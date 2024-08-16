@@ -1,18 +1,13 @@
 class Solution {
 public:
     int hammingDistance(int x, int y) {
-        int bit_x = 0;
-        int bit_y = 0;
-        int count = 0;
-        while (x != 0 || y != 0){
-            bit_x = x & 1;
-            bit_y = y & 1;
-            if (bit_x != bit_y){
-                count++;
+        int ans = 0;
+        int z = x ^ y;  // XOR operation to find differing bits
+        for(int i = 0; i <= 31; i++) {  // Iterate through all 32 bits of an integer
+            if(z & (1 << i)) {  // Check if the i-th bit is set
+                ans++;  // Increment the count of differing bits
             }
-            x = x >> 1;
-            y = y >> 1;
         }
-        return count;
+        return ans;  // Return the Hamming distance
     }
 };
