@@ -1,26 +1,27 @@
 class Solution {
 public:
     int minimumEffortPath(vector<vector<int>>& heights) {
-        int n = heights.size();
-        int m = heights[0].size();
-        vector<vector<int>> effort(n, vector<int>(m, INT_MAX));
-        priority_queue<tuple<int, int, int>, vector<tuple<int, int, int>>, greater<tuple<int, int, int>>> pq;
-        pq.push({0, 0, 0});
-        effort[0][0] = 0;
-        int drow[] = {-1, 0, 1, 0};
-        int dcol[] = {0, 1, 0, -1};
-        while (!pq.empty()) {
-            auto [curreffort, r, c] = pq.top();
+       int n=heights.size(),m=heights[0].size();
+       vector<vector<int>> eff(n,vector<int>(m,INT_MAX));
+       vector<vector<int>> effort(n,vector<int>(m,INT_MAX));
+       priority_queue<pair<int,pair<int,int>>,vector<pair<int,pair<int,int>>>,greater<pair<int,pair<int,int>>>>pq;
+       pq.push({0,{0,0}});
+        eff[0][0]=0;
+        vector<pair<int,int>> del={{-1,0},{0,1},{0,-1},{1,0}};
+        while(!pq.empty()){
+            int efi=pq.top().first;
+            int r=pq.top().second.first;
+            int c=pq.top().second.second;
             pq.pop();
-            if (r == n - 1 && c == m - 1) return curreffort;
-            for (int i = 0; i < 4; i++) {
-                int nrow = r + drow[i];
-                int ncol = c + dcol[i];
-                if (nrow >= 0 && nrow < n && ncol >= 0 && ncol < m) {
-                    int neweffort = max(curreffort, abs(heights[nrow][ncol] - heights[r][c]));
-                    if (neweffort < effort[nrow][ncol]) {
-                        effort[nrow][ncol] = neweffort;
-                        pq.push({neweffort, nrow, ncol});
+            if(r==n-1&&c==m-1) return efi;
+            for(int i=0;i<4;i++){
+                int nrow=r+del[i].first;
+                int ncol=c+del[i].second;
+                if(nrow>=0&&nrow<n&&ncol>=0&&ncol<m){
+                    int newefi=max(efi,abs(heights[nrow][ncol]-heights[r][c]));
+                    if(newefi<eff[nrow][ncol]){
+                        eff[nrow][ncol]=newefi;
+                        pq.push({newefi,{nrow,ncol}});
                     }
                 }
             }
