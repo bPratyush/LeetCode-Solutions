@@ -1,49 +1,47 @@
+class DSU{
+public:
+    vector<int>parent,rank;
+    DSU(int n){
+        parent.resize(n);
+        rank.resize(n,1);
+        for(int i=0;i<n;i++) parent[i]=i;
+    }
+    int findparent(int u){
+        if(u==parent[u]) return u;
+        return parent[u]=findparent(parent[u]);
+    }
+    void unite(int u,int v){
+        int ulp=findparent(u);
+        int ulv=findparent(v);
+        if(rank[ulp]<rank[ulv]) parent[ulp]=ulv;
+        else if(rank[ulv]<rank[ulp]) parent[ulv]=ulp;
+        else{
+            parent[ulp]=ulv;
+            rank[ulv]++;
+        }
+    }
+};
 class Solution {
 public:
-    vector<int> parent, size;
-    void make_set(int v) {
-        parent[v] = v;
-        size[v] = 1;
-    }
-    int find_set(int v) {
-        if (v == parent[v]) return v;
-        return parent[v] = find_set(parent[v]);
-    }
-    void union_sets(int a, int b) {
-        a = find_set(a);
-        b = find_set(b);
-        if (a != b) {
-            if (size[a] < size[b]) swap(a, b);
-            parent[b] = a;
-            size[a] += size[b];
-        }
-    }
-    struct Edge {
-        int u, v, weight;
-        bool operator<(const Edge &other) const {
-            return weight < other.weight;
-        }
-    };
     int minCostConnectPoints(vector<vector<int>>& points) {
-        int n = points.size();
-        vector<Edge> edges;
-        for (int i = 0; i < n; i++) {
-            for (int j = i + 1; j < n; j++) {
-                int distance = abs(points[i][0] - points[j][0]) + abs(points[i][1] - points[j][1]);
-                edges.push_back({i, j, distance});
+        int n=points.size();
+        vector<pair<int,pair<int,int>>> edges;
+        for(int i=0;i<n;i++){
+            for(int j=i+1;j<n;j++){
+                int dist=abs(points[i][0]-points[j][0])+abs(points[i][1]-points[j][1]);
+                edges.push_back({dist,{i,j}});
             }
         }
-        int cost = 0;
-        vector<Edge> result;
-        parent.resize(n);
-        size.resize(n);
-        for (int i = 0; i < n; i++) make_set(i);
-        sort(edges.begin(), edges.end());
-        for (Edge e : edges) {
-            if (find_set(e.u) != find_set(e.v)) {
-                cost += e.weight;
-                result.push_back(e);
-                union_sets(e.u, e.v);
+        int cost=0;
+        DSU dsu(n);
+        sort(edges.begin(),edges.end());
+        for(auto it:edges){
+            int dist=it.first;
+            int u=it.second.first;
+            int v=it.second.second;
+            if(dsu.findparent(u)!=dsu.findparent(v)){
+                cost+=dist;
+                dsu.unite(u,v);
             }
         }
         return cost;
