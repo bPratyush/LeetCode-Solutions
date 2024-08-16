@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0575-distribute-candies](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0575-distribute-candies) |
 | [0605-can-place-flowers](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0605-can-place-flowers) |
 | [0621-task-scheduler](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0621-task-scheduler) |
+| [0624-maximum-distance-in-arrays](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0624-maximum-distance-in-arrays) |
 | [0643-maximum-average-subarray-i](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0645-set-mismatch) |
 | [0646-maximum-length-of-pair-chain](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0646-maximum-length-of-pair-chain) |
@@ -284,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0455-assign-cookies](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0605-can-place-flowers) |
 | [0621-task-scheduler](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0621-task-scheduler) |
+| [0624-maximum-distance-in-arrays](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0624-maximum-distance-in-arrays) |
 | [0646-maximum-length-of-pair-chain](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0646-maximum-length-of-pair-chain) |
 | [0678-valid-parenthesis-string](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
