@@ -4,9 +4,9 @@ public:
         stack<char>st;
         string res ="";
         int n = nums.size();
+        //Previous Smallest Element
         for(int i=0;i<n;i++){
-            while(!st.empty() && k>0 && (st.top()-'0')>(nums[i]-'0'))
-            {
+            while(!st.empty() && k>0 && (st.top()-'0')>(nums[i]-'0')){
                 st.pop();
                 k--;
             }
@@ -17,8 +17,7 @@ public:
             k--;
         }
         if(st.empty()) return "0";
-        while(!st.empty())
-        {
+        while(!st.empty()){
             res+=st.top();
             st.pop();
         }
