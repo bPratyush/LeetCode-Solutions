@@ -19,13 +19,13 @@ public:
             }
         }
         sort(mergedValues.begin(), mergedValues.end());
-
         ListNode* dummy = new ListNode(-1);
         ListNode* current = dummy;
         for (int value : mergedValues) {
             current->next = new ListNode(value);
             current = current->next;
         }
+
         return dummy->next;
     }
 };
