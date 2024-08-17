@@ -13,16 +13,16 @@ public:
     ListNode* addTwoNumbers(ListNode* l1, ListNode* l2) {
         ListNode* tmp1=l1;
         ListNode* tmp2=l2;
-        ListNode* res=new ListNode(0);
-        ListNode* curr=res;
         int carry=0;
+        ListNode* res=new ListNode(-1);
+        ListNode* curr=res;
         while(tmp1||tmp2||carry){
             int sum=(tmp1?tmp1->val:0)+(tmp2?tmp2->val:0)+carry;
             carry=sum/10;
             curr->next=new ListNode(sum%10);
             curr=curr->next;
             if(tmp1) tmp1=tmp1->next;
-            if(tmp2) tmp2=tmp2->next;
+            if(tmp2) tmp2=tmp2->next; 
         }
         return res->next;
     }
