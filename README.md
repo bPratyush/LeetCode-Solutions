@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0739-daily-temperatures](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0739-daily-temperatures) |
 | [0740-delete-and-earn](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0740-delete-and-earn) |
 | [0794-swim-in-rising-water](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0794-swim-in-rising-water) |
+| [0833-bus-routes](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0833-bus-routes) |
 | [0854-making-a-large-island](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0854-making-a-large-island) |
 | [0870-magic-squares-in-grid](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0870-magic-squares-in-grid) |
 | [0879-maximize-distance-to-closest-person](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0879-maximize-distance-to-closest-person) |
@@ -371,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0692-top-k-frequent-words](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0692-top-k-frequent-words) |
 | [0721-accounts-merge](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0721-accounts-merge) |
 | [0740-delete-and-earn](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0740-delete-and-earn) |
+| [0833-bus-routes](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0833-bus-routes) |
 | [0870-magic-squares-in-grid](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0870-magic-squares-in-grid) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0966-binary-subarrays-with-sum](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0966-binary-subarrays-with-sum) |
@@ -597,6 +599,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0794-swim-in-rising-water](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0794-swim-in-rising-water) |
 | [0801-is-graph-bipartite](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0803-cheapest-flights-within-k-stops) |
+| [0833-bus-routes](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0833-bus-routes) |
 | [0854-making-a-large-island](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0854-making-a-large-island) |
 | [0871-keys-and-rooms](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0871-keys-and-rooms) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
