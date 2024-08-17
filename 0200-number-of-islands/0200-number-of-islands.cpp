@@ -1,57 +1,29 @@
-class DSU{
-    public:
-    vector<int>par;
-    vector<int> rank;
-    DSU(int n){
-        par.resize(n);
-        rank.resize(n);
-        for(int i=0;i<n;i++){
-            par[i]=i;
-            rank[i]=1;
-        }
-    }
-    int find(int u){
-        if(u==par[u]) return u;
-        return par[u]=find(par[u]);
-    }
-    void unite(int u,int v){
-        int ulp=find(u);
-        int ulv=find(v);
-        if(rank[ulp]<rank[ulv]) par[ulp]=ulv;
-        else if(rank[ulv]<rank[ulp]) par[ulv]=ulp;
-        else{
-            par[ulv]=ulp;
-            rank[ulp]++;
-        }
-    }
-};
 class Solution {
 public:
+    void dfs(vector<vector<char>>&grid,vector<vector<int>>&vis,int row,int col){
+        vector<pair<int,int>> del={{-1,0},{0,1},{1,0},{0,-1}};
+        vis[row][col]=1;
+        for(int i=0;i<4;i++){
+            int nr=row+del[i].first;
+            int nc=col+del[i].second;
+            if(nr>=0&&nr<grid.size()&&nc>=0&&nc<grid[0].size()&&!vis[nr][nc]&&grid[nr][nc]=='1'){
+                    dfs(grid,vis,nr,nc);
+                    vis[nr][nc]=1;
+                }
+        }
+    }
     int numIslands(vector<vector<char>>& grid) {
-        int n = grid.size();
-        int m = grid[0].size();
-        DSU dsu(n * m);
-        auto index = [&](int x, int y) {return x * m + y;};
-        vector<pair<int, int>> dir={{0, 1}, {1, 0}, {0, -1}, {-1, 0}};
-        for (int i = 0; i < n; i++) {
-            for (int j = 0; j < m; j++) {
-                if (grid[i][j] == '1') {
-                    for (auto [dx, dy] : dir) {
-                        int ni = i + dx;
-                        int nj = j + dy;
-                        if (ni >= 0 && ni < n && nj >= 0 && nj < m && grid[ni][nj] == '1') dsu.unite(index(i, j), index(ni, nj));
-                    }
+int n=grid.size(), m=grid[0].size();
+        vector<vector<int>>vis(n,vector<int>(m,0));
+        int cnt=0;
+        for(int i=0;i<n;i++){
+            for(int j=0;j<m;j++){
+                if(grid[i][j]=='1'&&!vis[i][j]){
+                    dfs(grid,vis,i,j);
+                    cnt++;
                 }
             }
         }
-        unordered_set<int> distinctIslands;
-        for (int i = 0; i < n; i++) {
-            for (int j = 0; j < m; j++) {
-                if (grid[i][j] == '1') {
-                    distinctIslands.insert(dsu.find(index(i, j)));
-                }
-            }
-        }
-        return distinctIslands.size();
+        return cnt;
     }
 };
