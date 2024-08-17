@@ -828,6 +828,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1014-k-closest-points-to-origin](https://github.com/bPratyush/LeetCode-Solutions/tree/master/1014-k-closest-points-to-origin) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/bPratyush/LeetCode-Solutions/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1370-count-number-of-nice-subarrays](https://github.com/bPratyush/LeetCode-Solutions/tree/master/1370-count-number-of-nice-subarrays) |
+| [1610-xor-operation-in-an-array](https://github.com/bPratyush/LeetCode-Solutions/tree/master/1610-xor-operation-in-an-array) |
 ## Counting Sort
 |  |
 | ------- |
@@ -1042,6 +1043,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0371-sum-of-two-integers](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0371-sum-of-two-integers) |
 | [0461-hamming-distance](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0461-hamming-distance) |
 | [0645-set-mismatch](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0645-set-mismatch) |
+| [1610-xor-operation-in-an-array](https://github.com/bPratyush/LeetCode-Solutions/tree/master/1610-xor-operation-in-an-array) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/bPratyush/LeetCode-Solutions/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Graph
 |  |
