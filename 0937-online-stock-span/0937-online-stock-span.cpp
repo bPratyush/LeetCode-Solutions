@@ -4,17 +4,27 @@ public:
     StockSpanner() {
         
     }
-    
     int next(int price) {
-        int span=1;
-        while(!s.empty()&&price>=s.top().first){
-            span+=s.top().second;
+        if(s.size()==0){
+            s.push({price,1});
+            return 1;
+        }
+        //Previous Greater Element
+        int c=1;
+        while(s.size()>0 && s.top().first<=price){
+            c+=s.top().second;
             s.pop();
         }
-        s.push({price,span});
-        return span;
+        s.push({price,c});
+        return c;
     }
 };
+
+/**
+ * Your StockSpanner object will be instantiated and called as such:
+ * StockSpanner* obj = new StockSpanner();
+ * int param_1 = obj->next(price);
+ */
 
 /**
  * Your StockSpanner object will be instantiated and called as such:
