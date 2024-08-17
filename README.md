@@ -169,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2067-maximum-number-of-points-with-cost](https://github.com/bPratyush/LeetCode-Solutions/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2119-minimum-number-of-operations-to-make-array-continuous](https://github.com/bPratyush/LeetCode-Solutions/tree/master/2119-minimum-number-of-operations-to-make-array-continuous) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/bPratyush/LeetCode-Solutions/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
+| [2227-sum-of-subarray-ranges](https://github.com/bPratyush/LeetCode-Solutions/tree/master/2227-sum-of-subarray-ranges) |
 ## Two Pointers
 |  |
 | ------- |
@@ -882,6 +883,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0937-online-stock-span](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0937-online-stock-span) |
 | [0943-sum-of-subarray-minimums](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0943-sum-of-subarray-minimums) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/bPratyush/LeetCode-Solutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [2227-sum-of-subarray-ranges](https://github.com/bPratyush/LeetCode-Solutions/tree/master/2227-sum-of-subarray-ranges) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -895,6 +897,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0937-online-stock-span](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0937-online-stock-span) |
 | [0943-sum-of-subarray-minimums](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0943-sum-of-subarray-minimums) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/bPratyush/LeetCode-Solutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [2227-sum-of-subarray-ranges](https://github.com/bPratyush/LeetCode-Solutions/tree/master/2227-sum-of-subarray-ranges) |
 ## Trie
 |  |
 | ------- |
