@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1046-max-consecutive-ones-iii](https://github.com/bPratyush/LeetCode-Solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/bPratyush/LeetCode-Solutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1073-number-of-enclaves](https://github.com/bPratyush/LeetCode-Solutions/tree/master/1073-number-of-enclaves) |
+| [1111-minimum-score-triangulation-of-polygon](https://github.com/bPratyush/LeetCode-Solutions/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1121-partition-array-for-maximum-sum](https://github.com/bPratyush/LeetCode-Solutions/tree/master/1121-partition-array-for-maximum-sum) |
 | [1129-longest-string-chain](https://github.com/bPratyush/LeetCode-Solutions/tree/master/1129-longest-string-chain) |
 | [1130-last-stone-weight-ii](https://github.com/bPratyush/LeetCode-Solutions/tree/master/1130-last-stone-weight-ii) |
@@ -483,6 +484,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0943-sum-of-subarray-minimums](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0943-sum-of-subarray-minimums) |
 | [0967-minimum-falling-path-sum](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0967-minimum-falling-path-sum) |
 | [1020-longest-turbulent-subarray](https://github.com/bPratyush/LeetCode-Solutions/tree/master/1020-longest-turbulent-subarray) |
+| [1111-minimum-score-triangulation-of-polygon](https://github.com/bPratyush/LeetCode-Solutions/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1121-partition-array-for-maximum-sum](https://github.com/bPratyush/LeetCode-Solutions/tree/master/1121-partition-array-for-maximum-sum) |
 | [1129-longest-string-chain](https://github.com/bPratyush/LeetCode-Solutions/tree/master/1129-longest-string-chain) |
 | [1130-last-stone-weight-ii](https://github.com/bPratyush/LeetCode-Solutions/tree/master/1130-last-stone-weight-ii) |
