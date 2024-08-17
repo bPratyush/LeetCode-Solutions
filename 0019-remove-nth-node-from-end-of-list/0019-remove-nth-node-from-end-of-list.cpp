@@ -21,17 +21,15 @@ public:
     }
     ListNode* removeNthFromEnd(ListNode* head, int n) {
         int len=getlen(head);
-        if (n == len) {
-        ListNode* newHead = head->next;
-        delete head;
-        return newHead;
-    }
-    int k = len - n;
-    ListNode* tmp = head;
-    while (k-- > 1) tmp = tmp->next;
-    ListNode* nodeToRemove = tmp->next;
-    tmp->next = tmp->next->next;
-    delete nodeToRemove;
-    return head;
+        if(n==len){
+            ListNode* newh=head->next;
+            delete head;
+            return newh;
+        }
+        int k=len-n;
+        ListNode* tmp=head;
+        while(k-->1) tmp=tmp->next;
+        tmp->next=tmp->next->next;
+        return head;
     }
 };
