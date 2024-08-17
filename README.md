@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0300-longest-increasing-subsequence](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0312-burst-balloons](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0312-burst-balloons) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0322-coin-change](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0334-increasing-triplet-subsequence](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0334-increasing-triplet-subsequence) |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0278-first-bad-version](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0300-longest-increasing-subsequence) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0794-swim-in-rising-water](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0794-swim-in-rising-water) |
 | [0912-random-pick-with-weight](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0912-random-pick-with-weight) |
@@ -388,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0190-reverse-bits](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0347-top-k-frequent-elements](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [1014-k-closest-points-to-origin](https://github.com/bPratyush/LeetCode-Solutions/tree/master/1014-k-closest-points-to-origin) |
 ## Counting
@@ -1123,6 +1126,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0023-merge-k-sorted-lists) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
 ## Hash Function
 |  |
 | ------- |
@@ -1147,6 +1151,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Ordered Set
 |  |
 | ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/bPratyush/LeetCode-Solutions/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Bitmask
 |  |
@@ -1155,10 +1160,12 @@ A collection of LeetCode questions to ace the coding interview!
 ## Binary Indexed Tree
 |  |
 | ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0673-number-of-longest-increasing-subsequence) |
 ## Segment Tree
 |  |
 | ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0673-number-of-longest-increasing-subsequence) |
 ## Queue
 |  |
