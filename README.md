@@ -290,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0135-candy](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0135-candy) |
 | [0316-remove-duplicate-letters](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0316-remove-duplicate-letters) |
 | [0334-increasing-triplet-subsequence](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0334-increasing-triplet-subsequence) |
+| [0402-remove-k-digits](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0402-remove-k-digits) |
 | [0435-non-overlapping-intervals](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0455-assign-cookies) |
@@ -515,6 +516,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0392-is-subsequence](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0394-decode-string) |
 | [0399-evaluate-division](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0399-evaluate-division) |
+| [0402-remove-k-digits](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0443-string-compression](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0443-string-compression) |
 | [0516-longest-palindromic-subsequence](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0516-longest-palindromic-subsequence) |
@@ -863,6 +865,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0234-palindrome-linked-list](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0316-remove-duplicate-letters](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0316-remove-duplicate-letters) |
 | [0394-decode-string](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0394-decode-string) |
+| [0402-remove-k-digits](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0402-remove-k-digits) |
 | [0678-valid-parenthesis-string](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0735-asteroid-collision) |
 | [0874-backspace-string-compare](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0874-backspace-string-compare) |
@@ -875,6 +878,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0084-largest-rectangle-in-histogram](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0085-maximal-rectangle) |
 | [0316-remove-duplicate-letters](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0316-remove-duplicate-letters) |
+| [0402-remove-k-digits](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0402-remove-k-digits) |
 | [0937-online-stock-span](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0937-online-stock-span) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/bPratyush/LeetCode-Solutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Trie
