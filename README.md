@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0485-max-consecutive-ones](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0494-target-sum) |
+| [0496-next-greater-element-i](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0518-coin-change-ii](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0518-coin-change-ii) |
 | [0525-contiguous-array](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0525-contiguous-array) |
 | [0542-01-matrix](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0542-01-matrix) |
@@ -346,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0383-ransom-note](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0383-ransom-note) |
 | [0424-longest-repeating-character-replacement](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0496-next-greater-element-i](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0575-distribute-candies](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0575-distribute-candies) |
@@ -866,6 +868,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0316-remove-duplicate-letters](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0316-remove-duplicate-letters) |
 | [0394-decode-string](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0402-remove-k-digits) |
+| [0496-next-greater-element-i](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0678-valid-parenthesis-string](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0735-asteroid-collision) |
 | [0874-backspace-string-compare](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0874-backspace-string-compare) |
@@ -879,6 +882,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0085-maximal-rectangle](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0085-maximal-rectangle) |
 | [0316-remove-duplicate-letters](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0402-remove-k-digits) |
+| [0496-next-greater-element-i](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0937-online-stock-span](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0937-online-stock-span) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/bPratyush/LeetCode-Solutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Trie
