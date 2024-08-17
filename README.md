@@ -116,7 +116,6 @@ A collection of LeetCode questions to ace the coding interview!
 | [0646-maximum-length-of-pair-chain](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0646-maximum-length-of-pair-chain) |
 | [0658-find-k-closest-elements](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0658-find-k-closest-elements) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0673-number-of-longest-increasing-subsequence) |
-| [0698-partition-to-k-equal-sum-subsets](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0713-subarray-product-less-than-k](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0719-find-k-th-smallest-pair-distance) |
@@ -476,7 +475,6 @@ A collection of LeetCode questions to ace the coding interview!
 | [0647-palindromic-substrings](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0647-palindromic-substrings) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
-| [0698-partition-to-k-equal-sum-subsets](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0740-delete-and-earn](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0740-delete-and-earn) |
@@ -1055,7 +1053,6 @@ A collection of LeetCode questions to ace the coding interview!
 | [0371-sum-of-two-integers](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0371-sum-of-two-integers) |
 | [0461-hamming-distance](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0461-hamming-distance) |
 | [0645-set-mismatch](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0645-set-mismatch) |
-| [0698-partition-to-k-equal-sum-subsets](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [1610-xor-operation-in-an-array](https://github.com/bPratyush/LeetCode-Solutions/tree/master/1610-xor-operation-in-an-array) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/bPratyush/LeetCode-Solutions/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Graph
@@ -1103,7 +1100,6 @@ A collection of LeetCode questions to ace the coding interview!
 | [0070-climbing-stairs](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0139-word-break) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
-| [0698-partition-to-k-equal-sum-subsets](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0698-partition-to-k-equal-sum-subsets) |
 ## Backtracking
 |  |
 | ------- |
@@ -1122,7 +1118,6 @@ A collection of LeetCode questions to ace the coding interview!
 | [0131-palindrome-partitioning](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0131-palindrome-partitioning) |
 | [0357-count-numbers-with-unique-digits](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0357-count-numbers-with-unique-digits) |
 | [0494-target-sum](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0494-target-sum) |
-| [0698-partition-to-k-equal-sum-subsets](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0698-partition-to-k-equal-sum-subsets) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -1196,7 +1191,6 @@ A collection of LeetCode questions to ace the coding interview!
 ## Bitmask
 |  |
 | ------- |
-| [0698-partition-to-k-equal-sum-subsets](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/bPratyush/LeetCode-Solutions/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Binary Indexed Tree
 |  |
