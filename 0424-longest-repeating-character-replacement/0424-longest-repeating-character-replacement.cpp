@@ -6,9 +6,7 @@ public:
         for (;r<s.size();r++) {
             mpp[s[r]]++;
             maxCount = max(maxCount, mpp[s[r]]);
-            if (r-l+1-maxCount>k) {
-                mpp[s[l++]]--;
-            }
+            if (r-l+1-maxCount>k) mpp[s[l++]]--;
             maxLen = max(maxLen,r-l+1);
         }
         return maxLen;
