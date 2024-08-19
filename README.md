@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0879-maximize-distance-to-closest-person](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0879-maximize-distance-to-closest-person) |
 | [0883-car-fleet](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0883-car-fleet) |
 | [0890-lemonade-change](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0890-lemonade-change) |
+| [0907-koko-eating-bananas](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0907-koko-eating-bananas) |
 | [0909-stone-game](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0909-stone-game) |
 | [0912-random-pick-with-weight](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0912-random-pick-with-weight) |
 | [0921-spiral-matrix-iii](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0921-spiral-matrix-iii) |
@@ -245,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0658-find-k-closest-elements](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0658-find-k-closest-elements) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0794-swim-in-rising-water](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0794-swim-in-rising-water) |
+| [0907-koko-eating-bananas](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0907-koko-eating-bananas) |
 | [0912-random-pick-with-weight](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0912-random-pick-with-weight) |
 | [1023-time-based-key-value-store](https://github.com/bPratyush/LeetCode-Solutions/tree/master/1023-time-based-key-value-store) |
 | [1046-max-consecutive-ones-iii](https://github.com/bPratyush/LeetCode-Solutions/tree/master/1046-max-consecutive-ones-iii) |
