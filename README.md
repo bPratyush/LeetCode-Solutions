@@ -479,6 +479,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0629-k-inverse-pairs-array](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0629-k-inverse-pairs-array) |
 | [0646-maximum-length-of-pair-chain](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0646-maximum-length-of-pair-chain) |
 | [0647-palindromic-substrings](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0647-palindromic-substrings) |
+| [0650-2-keys-keyboard](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0650-2-keys-keyboard) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
@@ -837,6 +838,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0371-sum-of-two-integers](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0371-sum-of-two-integers) |
 | [0380-insert-delete-getrandom-o1](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0486-predict-the-winner](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
+| [0650-2-keys-keyboard](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0650-2-keys-keyboard) |
 | [0870-magic-squares-in-grid](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0870-magic-squares-in-grid) |
 | [0909-stone-game](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0909-stone-game) |
 | [0912-random-pick-with-weight](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0912-random-pick-with-weight) |
