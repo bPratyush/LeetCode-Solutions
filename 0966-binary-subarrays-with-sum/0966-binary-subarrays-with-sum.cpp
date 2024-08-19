@@ -1,15 +1,14 @@
 class Solution {
 public:
     int numSubarraysWithSum(vector<int>& nums, int goal) {
-        return atMost(nums,goal)-atMost(nums,goal-1);
-    }
-    int atMost(vector<int>& nums, int goal){
-        int r,l = 0, sum = 0, result = 0;
-        for (r=0;r<nums.size();r++) {
-            sum += nums[r];
-            while (sum > goal && l<=r) sum -= nums[l++];
-            result+=r-l+1;
+        unordered_map<int,int>hash;
+        hash[0]=1;
+        int cursum=0,cnt=0;
+        for(int i=0;i<nums.size();i++){
+            cursum+=nums[i];
+            if(hash.find(cursum-goal)!=hash.end()) cnt+=hash[cursum-goal];
+            hash[cursum]++;
         }
-        return result;
+        return cnt;
     }
 };
