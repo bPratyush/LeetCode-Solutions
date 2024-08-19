@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0991-array-of-doubled-pairs](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0991-array-of-doubled-pairs) |
 | [0999-regions-cut-by-slashes](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0999-regions-cut-by-slashes) |
 | [1014-k-closest-points-to-origin](https://github.com/bPratyush/LeetCode-Solutions/tree/master/1014-k-closest-points-to-origin) |
+| [1016-subarray-sums-divisible-by-k](https://github.com/bPratyush/LeetCode-Solutions/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1019-squares-of-a-sorted-array](https://github.com/bPratyush/LeetCode-Solutions/tree/master/1019-squares-of-a-sorted-array) |
 | [1020-longest-turbulent-subarray](https://github.com/bPratyush/LeetCode-Solutions/tree/master/1020-longest-turbulent-subarray) |
 | [1034-subarrays-with-k-different-integers](https://github.com/bPratyush/LeetCode-Solutions/tree/master/1034-subarrays-with-k-different-integers) |
@@ -394,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0989-largest-component-size-by-common-factor](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0989-largest-component-size-by-common-factor) |
 | [0991-array-of-doubled-pairs](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0991-array-of-doubled-pairs) |
 | [0999-regions-cut-by-slashes](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0999-regions-cut-by-slashes) |
+| [1016-subarray-sums-divisible-by-k](https://github.com/bPratyush/LeetCode-Solutions/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1023-time-based-key-value-store](https://github.com/bPratyush/LeetCode-Solutions/tree/master/1023-time-based-key-value-store) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/bPratyush/LeetCode-Solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1034-subarrays-with-k-different-integers](https://github.com/bPratyush/LeetCode-Solutions/tree/master/1034-subarrays-with-k-different-integers) |
@@ -898,6 +900,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0560-subarray-sum-equals-k](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0912-random-pick-with-weight](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0912-random-pick-with-weight) |
 | [0966-binary-subarrays-with-sum](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0966-binary-subarrays-with-sum) |
+| [1016-subarray-sums-divisible-by-k](https://github.com/bPratyush/LeetCode-Solutions/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/bPratyush/LeetCode-Solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1145-number-of-submatrices-that-sum-to-target](https://github.com/bPratyush/LeetCode-Solutions/tree/master/1145-number-of-submatrices-that-sum-to-target) |
 | [1321-get-equal-substrings-within-budget](https://github.com/bPratyush/LeetCode-Solutions/tree/master/1321-get-equal-substrings-within-budget) |
