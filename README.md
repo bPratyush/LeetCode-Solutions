@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1121-partition-array-for-maximum-sum](https://github.com/bPratyush/LeetCode-Solutions/tree/master/1121-partition-array-for-maximum-sum) |
 | [1129-longest-string-chain](https://github.com/bPratyush/LeetCode-Solutions/tree/master/1129-longest-string-chain) |
 | [1130-last-stone-weight-ii](https://github.com/bPratyush/LeetCode-Solutions/tree/master/1130-last-stone-weight-ii) |
+| [1145-number-of-submatrices-that-sum-to-target](https://github.com/bPratyush/LeetCode-Solutions/tree/master/1145-number-of-submatrices-that-sum-to-target) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/bPratyush/LeetCode-Solutions/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1325-path-with-maximum-probability](https://github.com/bPratyush/LeetCode-Solutions/tree/master/1325-path-with-maximum-probability) |
 | [1330-longest-arithmetic-subsequence-of-given-difference](https://github.com/bPratyush/LeetCode-Solutions/tree/master/1330-longest-arithmetic-subsequence-of-given-difference) |
@@ -397,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/bPratyush/LeetCode-Solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1034-subarrays-with-k-different-integers](https://github.com/bPratyush/LeetCode-Solutions/tree/master/1034-subarrays-with-k-different-integers) |
 | [1129-longest-string-chain](https://github.com/bPratyush/LeetCode-Solutions/tree/master/1129-longest-string-chain) |
+| [1145-number-of-submatrices-that-sum-to-target](https://github.com/bPratyush/LeetCode-Solutions/tree/master/1145-number-of-submatrices-that-sum-to-target) |
 | [1330-longest-arithmetic-subsequence-of-given-difference](https://github.com/bPratyush/LeetCode-Solutions/tree/master/1330-longest-arithmetic-subsequence-of-given-difference) |
 | [1370-count-number-of-nice-subarrays](https://github.com/bPratyush/LeetCode-Solutions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/bPratyush/LeetCode-Solutions/tree/master/1798-max-number-of-k-sum-pairs) |
@@ -814,6 +816,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0999-regions-cut-by-slashes](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0999-regions-cut-by-slashes) |
 | [1036-rotting-oranges](https://github.com/bPratyush/LeetCode-Solutions/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/bPratyush/LeetCode-Solutions/tree/master/1073-number-of-enclaves) |
+| [1145-number-of-submatrices-that-sum-to-target](https://github.com/bPratyush/LeetCode-Solutions/tree/master/1145-number-of-submatrices-that-sum-to-target) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/bPratyush/LeetCode-Solutions/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/bPratyush/LeetCode-Solutions/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/bPratyush/LeetCode-Solutions/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
@@ -896,6 +899,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0912-random-pick-with-weight](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0912-random-pick-with-weight) |
 | [0966-binary-subarrays-with-sum](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/bPratyush/LeetCode-Solutions/tree/master/1046-max-consecutive-ones-iii) |
+| [1145-number-of-submatrices-that-sum-to-target](https://github.com/bPratyush/LeetCode-Solutions/tree/master/1145-number-of-submatrices-that-sum-to-target) |
 | [1321-get-equal-substrings-within-budget](https://github.com/bPratyush/LeetCode-Solutions/tree/master/1321-get-equal-substrings-within-budget) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/bPratyush/LeetCode-Solutions/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/bPratyush/LeetCode-Solutions/tree/master/2134-maximize-the-confusion-of-an-exam) |
