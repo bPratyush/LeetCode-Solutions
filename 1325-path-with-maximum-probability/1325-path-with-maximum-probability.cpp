@@ -25,10 +25,10 @@ public:
             int node = pq.top().second;
             pq.pop();
             if (node == end_node) return current_prob;
-            for (const auto& neighbor : graph[node]) {
+            for (auto neighbor : graph[node]) {
                 int next_node = neighbor.first;
                 double edge_prob = neighbor.second;
-                double new_prob = current_prob * edge_prob;
+                double new_prob = current_prob*edge_prob;
                 if (new_prob > probabilities[next_node]) {
                     probabilities[next_node] = new_prob;
                     pq.emplace(new_prob, next_node);
