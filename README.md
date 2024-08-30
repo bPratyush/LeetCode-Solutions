@@ -1132,6 +1132,7 @@ A collection of some of the important LeetCode questions I did to ace my coding 
 | [1706-min-cost-to-connect-all-points](https://github.com/bPratyush/LeetCode-Solutions/tree/master/1706-min-cost-to-connect-all-points) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/bPratyush/LeetCode-Solutions/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2379-maximum-total-importance-of-roads](https://github.com/bPratyush/LeetCode-Solutions/tree/master/2379-maximum-total-importance-of-roads) |
+| [2803-modify-graph-edge-weights](https://github.com/bPratyush/LeetCode-Solutions/tree/master/2803-modify-graph-edge-weights) |
 ## Shortest Path
 |  |
 | ------- |
@@ -1141,6 +1142,7 @@ A collection of some of the important LeetCode questions I did to ace my coding 
 | [1325-path-with-maximum-probability](https://github.com/bPratyush/LeetCode-Solutions/tree/master/1325-path-with-maximum-probability) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/bPratyush/LeetCode-Solutions/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/bPratyush/LeetCode-Solutions/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+| [2803-modify-graph-edge-weights](https://github.com/bPratyush/LeetCode-Solutions/tree/master/2803-modify-graph-edge-weights) |
 ## Topological Sort
 |  |
 | ------- |
@@ -1193,6 +1195,7 @@ A collection of some of the important LeetCode questions I did to ace my coding 
 | [1325-path-with-maximum-probability](https://github.com/bPratyush/LeetCode-Solutions/tree/master/1325-path-with-maximum-probability) |
 | [1753-path-with-minimum-effort](https://github.com/bPratyush/LeetCode-Solutions/tree/master/1753-path-with-minimum-effort) |
 | [2379-maximum-total-importance-of-roads](https://github.com/bPratyush/LeetCode-Solutions/tree/master/2379-maximum-total-importance-of-roads) |
+| [2803-modify-graph-edge-weights](https://github.com/bPratyush/LeetCode-Solutions/tree/master/2803-modify-graph-edge-weights) |
 ## Biconnected Component
 |  |
 | ------- |
