@@ -182,6 +182,7 @@ A collection of some of the important LeetCode questions I did to ace my coding 
 | [1966-frequency-of-the-most-frequent-element](https://github.com/bPratyush/LeetCode-Solutions/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/bPratyush/LeetCode-Solutions/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2119-minimum-number-of-operations-to-make-array-continuous](https://github.com/bPratyush/LeetCode-Solutions/tree/master/2119-minimum-number-of-operations-to-make-array-continuous) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/bPratyush/LeetCode-Solutions/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/bPratyush/LeetCode-Solutions/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2227-sum-of-subarray-ranges](https://github.com/bPratyush/LeetCode-Solutions/tree/master/2227-sum-of-subarray-ranges) |
 ## Two Pointers
@@ -834,6 +835,7 @@ A collection of some of the important LeetCode questions I did to ace my coding 
 | [1402-count-square-submatrices-with-all-ones](https://github.com/bPratyush/LeetCode-Solutions/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/bPratyush/LeetCode-Solutions/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [1753-path-with-minimum-effort](https://github.com/bPratyush/LeetCode-Solutions/tree/master/1753-path-with-minimum-effort) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/bPratyush/LeetCode-Solutions/tree/master/2132-convert-1d-array-into-2d-array) |
 ## Simulation
 |  |
 | ------- |
@@ -843,6 +845,7 @@ A collection of some of the important LeetCode questions I did to ace my coding 
 | [0735-asteroid-collision](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0735-asteroid-collision) |
 | [0874-backspace-string-compare](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0874-backspace-string-compare) |
 | [0921-spiral-matrix-iii](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0921-spiral-matrix-iii) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/bPratyush/LeetCode-Solutions/tree/master/2132-convert-1d-array-into-2d-array) |
 ## Math
 |  |
 | ------- |
