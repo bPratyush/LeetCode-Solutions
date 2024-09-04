@@ -133,6 +133,7 @@ A collection of some of the important LeetCode questions I did to ace my coding 
 | [0879-maximize-distance-to-closest-person](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0879-maximize-distance-to-closest-person) |
 | [0883-car-fleet](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0883-car-fleet) |
 | [0890-lemonade-change](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0890-lemonade-change) |
+| [0906-walking-robot-simulation](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0906-walking-robot-simulation) |
 | [0907-koko-eating-bananas](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0907-koko-eating-bananas) |
 | [0909-stone-game](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0909-stone-game) |
 | [0912-random-pick-with-weight](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0912-random-pick-with-weight) |
@@ -396,6 +397,7 @@ A collection of some of the important LeetCode questions I did to ace my coding 
 | [0833-bus-routes](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0833-bus-routes) |
 | [0870-magic-squares-in-grid](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0870-magic-squares-in-grid) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+| [0906-walking-robot-simulation](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0906-walking-robot-simulation) |
 | [0966-binary-subarrays-with-sum](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0966-binary-subarrays-with-sum) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0989-largest-component-size-by-common-factor](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0989-largest-component-size-by-common-factor) |
@@ -847,6 +849,7 @@ A collection of some of the important LeetCode questions I did to ace my coding 
 | [0289-game-of-life](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0289-game-of-life) |
 | [0735-asteroid-collision](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0735-asteroid-collision) |
 | [0874-backspace-string-compare](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0874-backspace-string-compare) |
+| [0906-walking-robot-simulation](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0906-walking-robot-simulation) |
 | [0921-spiral-matrix-iii](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0921-spiral-matrix-iii) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/bPratyush/LeetCode-Solutions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/bPratyush/LeetCode-Solutions/tree/master/2076-sum-of-digits-of-string-after-convert) |
