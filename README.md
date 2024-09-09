@@ -188,6 +188,7 @@ A collection of some of the important LeetCode questions I did to ace my coding 
 | [2155-find-missing-observations](https://github.com/bPratyush/LeetCode-Solutions/tree/master/2155-find-missing-observations) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/bPratyush/LeetCode-Solutions/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2227-sum-of-subarray-ranges](https://github.com/bPratyush/LeetCode-Solutions/tree/master/2227-sum-of-subarray-ranges) |
+| [2411-spiral-matrix-iv](https://github.com/bPratyush/LeetCode-Solutions/tree/master/2411-spiral-matrix-iv) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/bPratyush/LeetCode-Solutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Two Pointers
 |  |
@@ -848,6 +849,7 @@ A collection of some of the important LeetCode questions I did to ace my coding 
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/bPratyush/LeetCode-Solutions/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [1753-path-with-minimum-effort](https://github.com/bPratyush/LeetCode-Solutions/tree/master/1753-path-with-minimum-effort) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/bPratyush/LeetCode-Solutions/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2411-spiral-matrix-iv](https://github.com/bPratyush/LeetCode-Solutions/tree/master/2411-spiral-matrix-iv) |
 ## Simulation
 |  |
 | ------- |
@@ -862,6 +864,7 @@ A collection of some of the important LeetCode questions I did to ace my coding 
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/bPratyush/LeetCode-Solutions/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/bPratyush/LeetCode-Solutions/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2155-find-missing-observations](https://github.com/bPratyush/LeetCode-Solutions/tree/master/2155-find-missing-observations) |
+| [2411-spiral-matrix-iv](https://github.com/bPratyush/LeetCode-Solutions/tree/master/2411-spiral-matrix-iv) |
 ## Math
 |  |
 | ------- |
@@ -1092,6 +1095,7 @@ A collection of some of the important LeetCode questions I did to ace my coding 
 | [0328-odd-even-linked-list](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0328-odd-even-linked-list) |
 | [0725-split-linked-list-in-parts](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0725-split-linked-list-in-parts) |
 | [1484-linked-list-in-binary-tree](https://github.com/bPratyush/LeetCode-Solutions/tree/master/1484-linked-list-in-binary-tree) |
+| [2411-spiral-matrix-iv](https://github.com/bPratyush/LeetCode-Solutions/tree/master/2411-spiral-matrix-iv) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/bPratyush/LeetCode-Solutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Doubly-Linked List
 |  |
