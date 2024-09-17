@@ -406,6 +406,7 @@ A collection of some of the important LeetCode questions I did to ace my coding 
 | [0870-magic-squares-in-grid](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0870-magic-squares-in-grid) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0906-walking-robot-simulation](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0906-walking-robot-simulation) |
+| [0920-uncommon-words-from-two-sentences](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0966-binary-subarrays-with-sum](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0966-binary-subarrays-with-sum) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0989-largest-component-size-by-common-factor](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0989-largest-component-size-by-common-factor) |
@@ -453,6 +454,7 @@ A collection of some of the important LeetCode questions I did to ace my coding 
 | [0383-ransom-note](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0383-ransom-note) |
 | [0621-task-scheduler](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0692-top-k-frequent-words) |
+| [0920-uncommon-words-from-two-sentences](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1034-subarrays-with-k-different-integers](https://github.com/bPratyush/LeetCode-Solutions/tree/master/1034-subarrays-with-k-different-integers) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/bPratyush/LeetCode-Solutions/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -606,6 +608,7 @@ A collection of some of the important LeetCode questions I did to ace my coding 
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0721-accounts-merge](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0721-accounts-merge) |
 | [0874-backspace-string-compare](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0874-backspace-string-compare) |
+| [0920-uncommon-words-from-two-sentences](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1023-time-based-key-value-store](https://github.com/bPratyush/LeetCode-Solutions/tree/master/1023-time-based-key-value-store) |
 | [1129-longest-string-chain](https://github.com/bPratyush/LeetCode-Solutions/tree/master/1129-longest-string-chain) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/bPratyush/LeetCode-Solutions/tree/master/1146-greatest-common-divisor-of-strings) |
