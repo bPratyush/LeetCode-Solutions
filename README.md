@@ -490,6 +490,7 @@ A collection of some of the important LeetCode questions I did to ace my coding 
 | [0198-house-robber](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0213-house-robber-ii) |
 | [0221-maximal-square](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0221-maximal-square) |
+| [0241-different-ways-to-add-parentheses](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0264-ugly-number-ii) |
 | [0279-perfect-squares](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0279-perfect-squares) |
 | [0300-longest-increasing-subsequence](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0300-longest-increasing-subsequence) |
@@ -584,6 +585,7 @@ A collection of some of the important LeetCode questions I did to ace my coding 
 | [0205-isomorphic-strings](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0224-basic-calculator](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0224-basic-calculator) |
+| [0241-different-ways-to-add-parentheses](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0242-valid-anagram](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0290-word-pattern) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -898,6 +900,7 @@ A collection of some of the important LeetCode questions I did to ace my coding 
 | [0189-rotate-array](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0202-happy-number) |
 | [0224-basic-calculator](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0224-basic-calculator) |
+| [0241-different-ways-to-add-parentheses](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0279-perfect-squares](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0279-perfect-squares) |
@@ -1084,6 +1087,7 @@ A collection of some of the important LeetCode questions I did to ace my coding 
 | [0206-reverse-linked-list](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0206-reverse-linked-list) |
 | [0224-basic-calculator](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0224-basic-calculator) |
 | [0234-palindrome-linked-list](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
+| [0241-different-ways-to-add-parentheses](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0394-decode-string](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0394-decode-string) |
 | [0486-predict-the-winner](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
 ## Linked List
@@ -1208,6 +1212,7 @@ A collection of some of the important LeetCode questions I did to ace my coding 
 | ------- |
 | [0070-climbing-stairs](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0139-word-break) |
+| [0241-different-ways-to-add-parentheses](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 ## Backtracking
 |  |
