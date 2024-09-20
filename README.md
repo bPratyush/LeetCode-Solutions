@@ -584,6 +584,7 @@ A collection of some of the important LeetCode questions I did to ace my coding 
 | [0179-largest-number](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0179-largest-number) |
 | [0205-isomorphic-strings](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0208-implement-trie-prefix-tree) |
+| [0214-shortest-palindrome](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0214-shortest-palindrome) |
 | [0224-basic-calculator](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0224-basic-calculator) |
 | [0241-different-ways-to-add-parentheses](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0242-valid-anagram](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0242-valid-anagram) |
@@ -1026,6 +1027,7 @@ A collection of some of the important LeetCode questions I did to ace my coding 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0214-shortest-palindrome](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0214-shortest-palindrome) |
 | [0572-subtree-of-another-tree](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0572-subtree-of-another-tree) |
 | [0686-repeated-string-match](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0686-repeated-string-match) |
 ## Sliding Window
@@ -1282,6 +1284,7 @@ A collection of some of the important LeetCode questions I did to ace my coding 
 ## Hash Function
 |  |
 | ------- |
+| [0214-shortest-palindrome](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0214-shortest-palindrome) |
 | [0572-subtree-of-another-tree](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0572-subtree-of-another-tree) |
 ## Bucket Sort
 |  |
@@ -1349,4 +1352,8 @@ A collection of some of the important LeetCode questions I did to ace my coding 
 |  |
 | ------- |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/bPratyush/LeetCode-Solutions/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+## Rolling Hash
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0214-shortest-palindrome) |
 <!---LeetCode Topics End-->
