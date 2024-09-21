@@ -754,6 +754,7 @@ A collection of some of the important LeetCode questions I did to ace my coding 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0310-minimum-height-trees](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0310-minimum-height-trees) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0386-lexicographical-numbers](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0386-lexicographical-numbers) |
 | [0399-evaluate-division](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0399-evaluate-division) |
 | [0417-pacific-atlantic-water-flow](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0437-path-sum-iii](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0437-path-sum-iii) |
@@ -1022,6 +1023,7 @@ A collection of some of the important LeetCode questions I did to ace my coding 
 | [0014-longest-common-prefix](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0139-word-break](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0208-implement-trie-prefix-tree) |
+| [0386-lexicographical-numbers](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0386-lexicographical-numbers) |
 | [0692-top-k-frequent-words](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0692-top-k-frequent-words) |
 ## String Matching
 |  |
