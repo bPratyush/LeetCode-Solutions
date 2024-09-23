@@ -193,6 +193,7 @@ A collection of some of the important LeetCode questions I did to ace my coding 
 | [2227-sum-of-subarray-ranges](https://github.com/bPratyush/LeetCode-Solutions/tree/master/2227-sum-of-subarray-ranges) |
 | [2411-spiral-matrix-iv](https://github.com/bPratyush/LeetCode-Solutions/tree/master/2411-spiral-matrix-iv) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/bPratyush/LeetCode-Solutions/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [2755-extra-characters-in-a-string](https://github.com/bPratyush/LeetCode-Solutions/tree/master/2755-extra-characters-in-a-string) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/bPratyush/LeetCode-Solutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Two Pointers
 |  |
@@ -428,6 +429,7 @@ A collection of some of the important LeetCode questions I did to ace my coding 
 | [2119-minimum-number-of-operations-to-make-array-continuous](https://github.com/bPratyush/LeetCode-Solutions/tree/master/2119-minimum-number-of-operations-to-make-array-continuous) |
 | [2186-count-vowel-substrings-of-a-string](https://github.com/bPratyush/LeetCode-Solutions/tree/master/2186-count-vowel-substrings-of-a-string) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/bPratyush/LeetCode-Solutions/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
+| [2755-extra-characters-in-a-string](https://github.com/bPratyush/LeetCode-Solutions/tree/master/2755-extra-characters-in-a-string) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/bPratyush/LeetCode-Solutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Divide and Conquer
 |  |
@@ -551,6 +553,7 @@ A collection of some of the important LeetCode questions I did to ace my coding 
 | [2067-maximum-number-of-points-with-cost](https://github.com/bPratyush/LeetCode-Solutions/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/bPratyush/LeetCode-Solutions/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/bPratyush/LeetCode-Solutions/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
+| [2755-extra-characters-in-a-string](https://github.com/bPratyush/LeetCode-Solutions/tree/master/2755-extra-characters-in-a-string) |
 ## String
 |  |
 | ------- |
@@ -626,6 +629,7 @@ A collection of some of the important LeetCode questions I did to ace my coding 
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/bPratyush/LeetCode-Solutions/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/bPratyush/LeetCode-Solutions/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2186-count-vowel-substrings-of-a-string](https://github.com/bPratyush/LeetCode-Solutions/tree/master/2186-count-vowel-substrings-of-a-string) |
+| [2755-extra-characters-in-a-string](https://github.com/bPratyush/LeetCode-Solutions/tree/master/2755-extra-characters-in-a-string) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -1026,6 +1030,7 @@ A collection of some of the important LeetCode questions I did to ace my coding 
 | [0386-lexicographical-numbers](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0386-lexicographical-numbers) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0440-k-th-smallest-in-lexicographical-order) |
 | [0692-top-k-frequent-words](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0692-top-k-frequent-words) |
+| [2755-extra-characters-in-a-string](https://github.com/bPratyush/LeetCode-Solutions/tree/master/2755-extra-characters-in-a-string) |
 ## String Matching
 |  |
 | ------- |
