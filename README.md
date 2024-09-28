@@ -132,6 +132,7 @@ A collection of some of the important LeetCode questions I did to ace my coding 
 | [0794-swim-in-rising-water](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0794-swim-in-rising-water) |
 | [0833-bus-routes](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0833-bus-routes) |
 | [0854-making-a-large-island](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0854-making-a-large-island) |
+| [0859-design-circular-deque](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0859-design-circular-deque) |
 | [0870-magic-squares-in-grid](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0870-magic-squares-in-grid) |
 | [0879-maximize-distance-to-closest-person](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0879-maximize-distance-to-closest-person) |
 | [0883-car-fleet](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0883-car-fleet) |
@@ -957,6 +958,7 @@ A collection of some of the important LeetCode questions I did to ace my coding 
 | [0729-my-calendar-i](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0731-my-calendar-ii) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0859-design-circular-deque](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0859-design-circular-deque) |
 | [0937-online-stock-span](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0937-online-stock-span) |
 | [1023-time-based-key-value-store](https://github.com/bPratyush/LeetCode-Solutions/tree/master/1023-time-based-key-value-store) |
 ## Randomized
@@ -1141,6 +1143,7 @@ A collection of some of the important LeetCode questions I did to ace my coding 
 | [0234-palindrome-linked-list](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0328-odd-even-linked-list) |
 | [0725-split-linked-list-in-parts](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0725-split-linked-list-in-parts) |
+| [0859-design-circular-deque](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0859-design-circular-deque) |
 | [1484-linked-list-in-binary-tree](https://github.com/bPratyush/LeetCode-Solutions/tree/master/1484-linked-list-in-binary-tree) |
 | [2411-spiral-matrix-iv](https://github.com/bPratyush/LeetCode-Solutions/tree/master/2411-spiral-matrix-iv) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/bPratyush/LeetCode-Solutions/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
@@ -1355,6 +1358,7 @@ A collection of some of the important LeetCode questions I did to ace my coding 
 | [0225-implement-stack-using-queues](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0239-sliding-window-maximum) |
+| [0859-design-circular-deque](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0859-design-circular-deque) |
 | [0954-maximum-sum-circular-subarray](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0954-maximum-sum-circular-subarray) |
 ## Interactive
 |  |
