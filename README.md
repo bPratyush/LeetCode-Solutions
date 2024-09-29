@@ -398,6 +398,7 @@ A collection of some of the important LeetCode questions I did to ace my coding 
 | [0380-insert-delete-getrandom-o1](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0383-ransom-note](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0383-ransom-note) |
 | [0424-longest-repeating-character-replacement](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
+| [0432-all-oone-data-structure](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0432-all-oone-data-structure) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0525-contiguous-array) |
@@ -955,6 +956,7 @@ A collection of some of the important LeetCode questions I did to ace my coding 
 | [0295-find-median-from-data-stream](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0295-find-median-from-data-stream) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0380-insert-delete-getrandom-o1](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0380-insert-delete-getrandom-o1) |
+| [0432-all-oone-data-structure](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0432-all-oone-data-structure) |
 | [0729-my-calendar-i](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0731-my-calendar-ii) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0789-kth-largest-element-in-a-stream) |
@@ -1142,6 +1144,7 @@ A collection of some of the important LeetCode questions I did to ace my coding 
 | [0206-reverse-linked-list](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0328-odd-even-linked-list) |
+| [0432-all-oone-data-structure](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0432-all-oone-data-structure) |
 | [0725-split-linked-list-in-parts](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0725-split-linked-list-in-parts) |
 | [0859-design-circular-deque](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0859-design-circular-deque) |
 | [1484-linked-list-in-binary-tree](https://github.com/bPratyush/LeetCode-Solutions/tree/master/1484-linked-list-in-binary-tree) |
@@ -1152,6 +1155,7 @@ A collection of some of the important LeetCode questions I did to ace my coding 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0146-lru-cache) |
+| [0432-all-oone-data-structure](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0432-all-oone-data-structure) |
 ## Binary Search Tree
 |  |
 | ------- |
