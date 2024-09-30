@@ -174,6 +174,7 @@ A collection of some of the important LeetCode questions I did to ace my coding 
 | [1402-count-square-submatrices-with-all-ones](https://github.com/bPratyush/LeetCode-Solutions/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/bPratyush/LeetCode-Solutions/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1435-xor-queries-of-a-subarray](https://github.com/bPratyush/LeetCode-Solutions/tree/master/1435-xor-queries-of-a-subarray) |
+| [1497-design-a-stack-with-increment-operation](https://github.com/bPratyush/LeetCode-Solutions/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/bPratyush/LeetCode-Solutions/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/bPratyush/LeetCode-Solutions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/bPratyush/LeetCode-Solutions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
@@ -963,6 +964,7 @@ A collection of some of the important LeetCode questions I did to ace my coding 
 | [0859-design-circular-deque](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0859-design-circular-deque) |
 | [0937-online-stock-span](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0937-online-stock-span) |
 | [1023-time-based-key-value-store](https://github.com/bPratyush/LeetCode-Solutions/tree/master/1023-time-based-key-value-store) |
+| [1497-design-a-stack-with-increment-operation](https://github.com/bPratyush/LeetCode-Solutions/tree/master/1497-design-a-stack-with-increment-operation) |
 ## Randomized
 |  |
 | ------- |
@@ -1021,6 +1023,7 @@ A collection of some of the important LeetCode questions I did to ace my coding 
 | [0937-online-stock-span](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0937-online-stock-span) |
 | [0943-sum-of-subarray-minimums](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0943-sum-of-subarray-minimums) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/bPratyush/LeetCode-Solutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1497-design-a-stack-with-increment-operation](https://github.com/bPratyush/LeetCode-Solutions/tree/master/1497-design-a-stack-with-increment-operation) |
 | [2227-sum-of-subarray-ranges](https://github.com/bPratyush/LeetCode-Solutions/tree/master/2227-sum-of-subarray-ranges) |
 ## Monotonic Stack
 |  |
