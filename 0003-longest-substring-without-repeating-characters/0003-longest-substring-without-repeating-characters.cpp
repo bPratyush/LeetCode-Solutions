@@ -2,9 +2,7 @@ class Solution {
 public:
     int lengthOfLongestSubstring(string s) {
        int i=0,j=0;
-       if(s=="") return 0;
-       if(!s.size()) return 0;
-       int res=INT_MIN;
+       int res=0;
         unordered_map<int,int> freq;
         for(;j<s.size();j++){
             freq[s[j]]++;
