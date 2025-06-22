@@ -1,19 +1,19 @@
 class Solution {
 public:
     string minWindow(string s, string t) {
-        vector<int> map(128,0);
-        for (char c : t) map[c]++;
-        int counter = t.size(), begin = 0, end = 0, d = INT_MAX, head = 0;
-        while (end < s.size()){
-            if (map[s[end++]]-- > 0) counter--;
-            while (counter == 0) {
-                if (end - begin < d) {
-                    head = begin;
-                    d = end - head;
+        vector<int> mpp(128,0);
+        for(char c:t) mpp[c]++;
+        int counter=t.size(), b=0, e=0, d=INT_MAX, head=0;
+        while(e<s.size()){
+            if(mpp[s[e++]]-->0) counter--;
+            while(counter==0){
+                if(e-b<d){
+                    head=b;
+                    d=e-head;
                 }
-                if (map[s[begin++]]++ == 0) counter++;
-            }  
+                if(mpp[s[b++]]++==0) counter++;
+            }
         }
-        return d == INT_MAX ? "" : s.substr(head, d);
+        return d==INT_MAX?"":s.substr(head,d);
     }
 };
