@@ -1,15 +1,15 @@
 class Solution {
 public:
-    void dfs(vector<vector<char>>&grid,vector<vector<int>>&vis,int row,int col){
-        vector<pair<int,int>> del={{-1,0},{0,1},{1,0},{0,-1}};
+    void dfs(vector<vector<char>>&grid,vector<vector<int>>&vis,int row, int col){
+        vector<pair<int,int>> dr={{-1,0},{0,1},{1,0},{0,-1}};
         vis[row][col]=1;
         for(int i=0;i<4;i++){
-            int nr=row+del[i].first;
-            int nc=col+del[i].second;
+            int nr=row+dr[i].first;
+            int nc=col+dr[i].second;
             if(nr>=0&&nr<grid.size()&&nc>=0&&nc<grid[0].size()&&!vis[nr][nc]&&grid[nr][nc]=='1'){
-                    dfs(grid,vis,nr,nc);
-                    vis[nr][nc]=1;
-                }
+                dfs(grid,vis,nr,nc);
+                vis[nr][nc]=1;
+            }
         }
     }
     void bfs(vector<vector<char>>&grid,vector<vector<int>>&vis,int row,int col){
@@ -17,14 +17,15 @@ public:
         queue<pair<int,int>>q;
         q.push({row,col});
         vis[row][col]=1;
-        vector<pair<int,int>> del={{-1,0},{0,1},{1,0},{0,-1}};
+        vector<pair<int,int>> dr={{-1,0},{0,1},{1,0},{0,-1}};
         while(!q.empty()){
             int r=q.front().first;
             int c=q.front().second;
+            vis[row][col]=1;
             q.pop();
             for(int i=0;i<4;i++){
-                int nr=r+del[i].first;
-                int nc=c+del[i].second;
+                int nr=r+dr[i].first;
+                int nc=c+dr[i].second;
                 if(nr>=0&&nr<grid.size()&&nc>=0&&nc<grid[0].size()&&!vis[nr][nc]&&grid[nr][nc]=='1'){
                     q.push({nr,nc});
                     vis[nr][nc]=1;
@@ -33,7 +34,7 @@ public:
         }
     }
     int numIslands(vector<vector<char>>& grid) {
-int n=grid.size(), m=grid[0].size();
+        int n=grid.size(), m=grid[0].size();
         vector<vector<int>>vis(n,vector<int>(m,0));
         int cnt=0;
         for(int i=0;i<n;i++){
