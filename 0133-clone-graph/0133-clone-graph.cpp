@@ -22,22 +22,22 @@ public:
 class Solution {
 public:
     Node* cloneGraph(Node* node) {
-        if(!node) return node;
-        unordered_map<Node*, Node*> m;
-        Node* ans = new Node(node->val, {});
-        m[node] = ans;
+        if(!node) return NULL;
+        unordered_map<Node*,Node*> mpp;
+        Node* ans=new Node(node->val, {});
+        mpp[node]=ans;
         queue<Node*> q;
         q.push(node);
-        while(!q.empty()) {
-            Node* curr = q.front();
+        while(!q.empty()){
+            Node* u=q.front();
             q.pop();
-            vector<Node*> neigh = curr->neighbors;
-            for(auto x:neigh) {
-                if(m.find(x) == m.end()) {
-                    m[x] = new Node(x->val,{});
+            vector<Node*> nh=u->neighbors;
+            for(auto x:nh){
+                if(mpp.find(x)==mpp.end()){
+                    mpp[x]=new Node(x->val, {});
                     q.push(x);
                 }
-                m[curr]->neighbors.push_back(m[x]);
+                mpp[u]->neighbors.push_back(mpp[x]);
             }
         }
         return ans;
