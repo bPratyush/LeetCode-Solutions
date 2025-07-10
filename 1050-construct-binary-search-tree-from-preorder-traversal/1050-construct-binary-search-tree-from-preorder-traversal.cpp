@@ -11,8 +11,8 @@
  */
 class Solution {
 public:
-    TreeNode* construct(TreeNode* root, int d){
-        if(!root) {
+    TreeNode* construct(TreeNode* root,int d){
+        if(!root){
             root=new TreeNode(d);
             return root;
         }
@@ -21,8 +21,8 @@ public:
         return root;
     }
     TreeNode* bstFromPreorder(vector<int>& preorder) {
-        TreeNode* root = NULL;
-        for(int i=0; i<preorder.size(); i++) root = construct(root, preorder[i]);
-        return root; 
+        TreeNode* root=NULL;
+        for(int i=0;i<preorder.size();i++) root=construct(root,preorder[i]);
+        return root;
     }
 };
