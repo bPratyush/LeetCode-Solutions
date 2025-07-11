@@ -10,32 +10,40 @@
  */
 class Solution {
 public:
-    void reverse(struct ListNode** head_ref){
-    struct ListNode* prev = NULL;
-    struct ListNode* curr = *head_ref;
-    struct ListNode* next = NULL;
-    while(curr) {
-        next = curr->next;
-        curr->next = prev;
-        prev = curr;
-        curr = next;
+int leni(ListNode* head){
+    int len=0;
+    ListNode*tmp=head;
+    while(tmp){
+        len++;
+        tmp=tmp->next;
     }
-    *head_ref = prev;
+    return len;
 }
 
-bool isPalindrome(struct ListNode* head) {
-    if(!head || !head->next) return true;
-    struct ListNode *slow = head, *fast = head;
-    while(fast && fast->next) {
-        slow = slow->next;
-        fast = fast->next->next;
+ListNode* reverse(ListNode* head){
+    ListNode* curr=head;
+    ListNode* prev=NULL;
+    while(curr){
+        ListNode* fwd=curr->next;
+        curr->next=prev;
+        prev=curr;
+        curr=fwd;
     }
-    reverse(&slow);
-    struct ListNode* curr = head;
-    while(slow) {
-        if(curr->val != slow->val) return false;
-        curr = curr->next;
-        slow = slow->next;
+    return prev;
+}
+bool isPalindrome(ListNode* head) {
+    if(!head||!head->next) return true;
+    int len=leni(head);
+    ListNode* tmp=head;
+    for(int i=0;i<len/2;i++){
+        tmp=tmp->next;
+    }
+    ListNode* tmp1=reverse(tmp);
+    ListNode* ptr1=head;
+    ListNode* ptr2=tmp1;
+    while(ptr2){
+        if(ptr1->val!=ptr2->val) return false;
+        ptr1=ptr1->next; ptr2=ptr2->next;
     }
     return true;
 }
