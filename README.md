@@ -129,6 +129,7 @@ A collection of some of the important LeetCode questions I did to ace my coding 
 | [0739-daily-temperatures](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0739-daily-temperatures) |
 | [0740-delete-and-earn](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0740-delete-and-earn) |
 | [0747-min-cost-climbing-stairs](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0747-min-cost-climbing-stairs) |
+| [0792-binary-search](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0792-binary-search) |
 | [0794-swim-in-rising-water](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0794-swim-in-rising-water) |
 | [0833-bus-routes](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0833-bus-routes) |
 | [0854-making-a-large-island](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0854-making-a-large-island) |
@@ -269,6 +270,7 @@ A collection of some of the important LeetCode questions I did to ace my coding 
 | [0719-find-k-th-smallest-pair-distance](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0729-my-calendar-i](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0731-my-calendar-ii) |
+| [0792-binary-search](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0792-binary-search) |
 | [0794-swim-in-rising-water](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0794-swim-in-rising-water) |
 | [0907-koko-eating-bananas](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0907-koko-eating-bananas) |
 | [0912-random-pick-with-weight](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0912-random-pick-with-weight) |
