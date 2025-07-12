@@ -1,23 +1,23 @@
 class DSU{
-public:
+    public:
     vector<int>parent,rank;
     DSU(int n){
         parent.resize(n);
-        rank.resize(n,1);
+        rank.resize(n+1,1);
         for(int i=0;i<n;i++) parent[i]=i;
     }
-    int findparent(int u){
+    int findpar(int u){
         if(u==parent[u]) return u;
-        return parent[u]=findparent(parent[u]);
+        return parent[u]=findpar(parent[u]);
     }
     void unite(int u,int v){
-        int ulp=findparent(u);
-        int ulv=findparent(v);
+        int ulp=findpar(u);
+        int ulv=findpar(v);
         if(rank[ulp]<rank[ulv]) parent[ulp]=ulv;
         else if(rank[ulv]<rank[ulp]) parent[ulv]=ulp;
         else{
-            parent[ulp]=ulv;
-            rank[ulv]++;
+            parent[ulv]=ulp;
+            rank[ulp]++;
         }
     }
 };
@@ -25,7 +25,7 @@ class Solution {
 public:
     int minCostConnectPoints(vector<vector<int>>& points) {
         int n=points.size();
-        vector<pair<int,pair<int,int>>> edges;
+        vector<pair<int,pair<int,int>>>edges;
         for(int i=0;i<n;i++){
             for(int j=i+1;j<n;j++){
                 int dist=abs(points[i][0]-points[j][0])+abs(points[i][1]-points[j][1]);
@@ -39,7 +39,7 @@ public:
             int dist=it.first;
             int u=it.second.first;
             int v=it.second.second;
-            if(dsu.findparent(u)!=dsu.findparent(v)){
+            if(dsu.findpar(u)!=dsu.findpar(v)){
                 cost+=dist;
                 dsu.unite(u,v);
             }
