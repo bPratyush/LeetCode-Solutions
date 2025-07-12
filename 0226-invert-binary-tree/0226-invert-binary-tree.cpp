@@ -11,16 +11,16 @@
  */
 class Solution {
 public:
-    void swapTree(TreeNode* &l1, TreeNode* &l2) {
-        TreeNode* a = l1;
-        l1 = l2;
-        l2 = a;
+    void swap(TreeNode*&a,TreeNode*&b){
+        TreeNode*tmp=a;
+        a=b;
+        b=tmp;
     }
     TreeNode* invertTree(TreeNode* root) {
-        if (!root) return nullptr;
-        swapTree(root->left, root->right);
-        root->left = invertTree(root->left);
-        root->right = invertTree(root->right);
+        if(!root) return NULL;
+        swap(root->left,root->right);
+        root->left=invertTree(root->left);
+        root->right=invertTree(root->right);
         return root;
     }
 };
