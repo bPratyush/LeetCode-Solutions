@@ -181,6 +181,7 @@ A collection of some of the important LeetCode questions I did to ace my coding 
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/bPratyush/LeetCode-Solutions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/bPratyush/LeetCode-Solutions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1646-kth-missing-positive-number](https://github.com/bPratyush/LeetCode-Solutions/tree/master/1646-kth-missing-positive-number) |
+| [1663-detect-cycles-in-2d-grid](https://github.com/bPratyush/LeetCode-Solutions/tree/master/1663-detect-cycles-in-2d-grid) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/bPratyush/LeetCode-Solutions/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/bPratyush/LeetCode-Solutions/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [1706-min-cost-to-connect-all-points](https://github.com/bPratyush/LeetCode-Solutions/tree/master/1706-min-cost-to-connect-all-points) |
@@ -706,6 +707,7 @@ A collection of some of the important LeetCode questions I did to ace my coding 
 | [1442-number-of-operations-to-make-network-connected](https://github.com/bPratyush/LeetCode-Solutions/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1484-linked-list-in-binary-tree](https://github.com/bPratyush/LeetCode-Solutions/tree/master/1484-linked-list-in-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/bPratyush/LeetCode-Solutions/tree/master/1544-count-good-nodes-in-binary-tree) |
+| [1663-detect-cycles-in-2d-grid](https://github.com/bPratyush/LeetCode-Solutions/tree/master/1663-detect-cycles-in-2d-grid) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/bPratyush/LeetCode-Solutions/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [1753-path-with-minimum-effort](https://github.com/bPratyush/LeetCode-Solutions/tree/master/1753-path-with-minimum-effort) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/bPratyush/LeetCode-Solutions/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
@@ -817,6 +819,7 @@ A collection of some of the important LeetCode questions I did to ace my coding 
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/bPratyush/LeetCode-Solutions/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/bPratyush/LeetCode-Solutions/tree/master/1484-linked-list-in-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/bPratyush/LeetCode-Solutions/tree/master/1544-count-good-nodes-in-binary-tree) |
+| [1663-detect-cycles-in-2d-grid](https://github.com/bPratyush/LeetCode-Solutions/tree/master/1663-detect-cycles-in-2d-grid) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/bPratyush/LeetCode-Solutions/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [1753-path-with-minimum-effort](https://github.com/bPratyush/LeetCode-Solutions/tree/master/1753-path-with-minimum-effort) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/bPratyush/LeetCode-Solutions/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
@@ -900,6 +903,7 @@ A collection of some of the important LeetCode questions I did to ace my coding 
 | [1145-number-of-submatrices-that-sum-to-target](https://github.com/bPratyush/LeetCode-Solutions/tree/master/1145-number-of-submatrices-that-sum-to-target) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/bPratyush/LeetCode-Solutions/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/bPratyush/LeetCode-Solutions/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1663-detect-cycles-in-2d-grid](https://github.com/bPratyush/LeetCode-Solutions/tree/master/1663-detect-cycles-in-2d-grid) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/bPratyush/LeetCode-Solutions/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [1753-path-with-minimum-effort](https://github.com/bPratyush/LeetCode-Solutions/tree/master/1753-path-with-minimum-effort) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/bPratyush/LeetCode-Solutions/tree/master/2132-convert-1d-array-into-2d-array) |
@@ -1124,6 +1128,7 @@ A collection of some of the important LeetCode questions I did to ace my coding 
 | [0999-regions-cut-by-slashes](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0999-regions-cut-by-slashes) |
 | [1073-number-of-enclaves](https://github.com/bPratyush/LeetCode-Solutions/tree/master/1073-number-of-enclaves) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/bPratyush/LeetCode-Solutions/tree/master/1442-number-of-operations-to-make-network-connected) |
+| [1663-detect-cycles-in-2d-grid](https://github.com/bPratyush/LeetCode-Solutions/tree/master/1663-detect-cycles-in-2d-grid) |
 | [1706-min-cost-to-connect-all-points](https://github.com/bPratyush/LeetCode-Solutions/tree/master/1706-min-cost-to-connect-all-points) |
 | [1753-path-with-minimum-effort](https://github.com/bPratyush/LeetCode-Solutions/tree/master/1753-path-with-minimum-effort) |
 ## Recursion
