@@ -1,7 +1,7 @@
 class LRUCache {
 public:
     map<int,int> m;
-    map<int,list<int>::iterator>address;
+    unordered_map<int,list<int>::iterator>address;
     list<int> l;
     int cap;
     int siz;
