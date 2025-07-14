@@ -767,6 +767,7 @@ A collection of some of the important LeetCode questions I did to ace my coding 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0099-recover-binary-search-tree) |
