@@ -519,6 +519,7 @@ A collection of some of the important LeetCode questions I did to ace my coding 
 | [0198-house-robber](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0213-house-robber-ii) |
 | [0221-maximal-square](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0221-maximal-square) |
+| [0233-number-of-digit-one](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0233-number-of-digit-one) |
 | [0241-different-ways-to-add-parentheses](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0264-ugly-number-ii) |
 | [0279-perfect-squares](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0279-perfect-squares) |
@@ -950,6 +951,7 @@ A collection of some of the important LeetCode questions I did to ace my coding 
 | [0189-rotate-array](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0202-happy-number) |
 | [0224-basic-calculator](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0224-basic-calculator) |
+| [0233-number-of-digit-one](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0233-number-of-digit-one) |
 | [0241-different-ways-to-add-parentheses](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0268-missing-number) |
@@ -1150,6 +1152,7 @@ A collection of some of the important LeetCode questions I did to ace my coding 
 | [0143-reorder-list](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0206-reverse-linked-list) |
 | [0224-basic-calculator](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0224-basic-calculator) |
+| [0233-number-of-digit-one](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0233-number-of-digit-one) |
 | [0234-palindrome-linked-list](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0241-different-ways-to-add-parentheses](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0394-decode-string](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0394-decode-string) |
