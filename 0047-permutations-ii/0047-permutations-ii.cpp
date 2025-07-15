@@ -1,25 +1,24 @@
 class Solution {
 public:
-    void bt(int index, vector<vector<int>>& ans, vector<int>& nums, unordered_set<int>& used_indices) {
-        if (index == nums.size()) {
-            ans.push_back(nums);
-            return;
+    void bt(int idx,vector<vector<int>>&res,vector<int>&nums,unordered_set<int>&seenidx){
+        int n=nums.size();
+        if(idx==n){
+            res.push_back(nums); return;
         }
-        unordered_set<int> used;
-        for (int i = index; i < nums.size(); i++) {
-            if (used.find(nums[i]) != used.end()) continue;
+        unordered_set<int>used;
+        for(int i=idx;i<nums.size();i++){
+            if(used.find(nums[i])!=used.end()) continue;
             used.insert(nums[i]);
-            swap(nums[index], nums[i]);
-            bt(index + 1, ans, nums, used_indices);
-            swap(nums[index], nums[i]);
+            swap(nums[idx],nums[i]);
+            bt(idx+1,res,nums,seenidx);
+            swap(nums[idx],nums[i]);
         }
     }
-
     vector<vector<int>> permuteUnique(vector<int>& nums) {
-        vector<vector<int>> ans;
-        unordered_set<int> used_indices;
-        sort(nums.begin(), nums.end());
-        bt(0, ans, nums, used_indices);
-        return ans;
+        vector<vector<int>>res;
+        unordered_set<int>seenidx;
+        sort(nums.begin(),nums.end());
+        bt(0,res,nums,seenidx);
+        return res;
     }
 };
