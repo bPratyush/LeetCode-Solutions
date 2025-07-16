@@ -1,10 +1,9 @@
 class LRUCache {
 public:
-    map<int,int> m;
+    unordered_map<int,int> m;
     unordered_map<int,list<int>::iterator>address;
     list<int> l;
-    int cap;
-    int siz;
+    int cap, siz;
     LRUCache(int capacity) {
         cap=capacity; siz=0;
     }
@@ -20,7 +19,8 @@ public:
     }
     
     void put(int key, int value) {
-        if(m.find(key)!=m.end()) {l.erase(address[key]);
+        if(m.find(key)!=m.end()) {
+            l.erase(address[key]);
             address.erase(key);
             m.erase(key);
             siz--;
