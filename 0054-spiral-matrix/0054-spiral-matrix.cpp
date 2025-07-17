@@ -2,8 +2,7 @@ class Solution {
 public:
     vector<int> spiralOrder(vector<vector<int>>& matrix) {
       vector<int> res;
-      int m=matrix.size(),n=matrix[0].size();
-      int l=0,r=n-1,t=0,b=m-1;
+      int l=0,r=matrix[0].size()-1,t=0,b=matrix.size()-1;
       while(l<=r&&t<=b){
         for(int i=l;i<=r;i++) res.push_back(matrix[t][i]);
         t++;
