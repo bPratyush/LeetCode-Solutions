@@ -65,6 +65,7 @@ A collection of some of the important LeetCode questions I did to ace my coding 
 | [0189-rotate-array](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0200-number-of-islands) |
+| [0204-count-primes](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0213-house-robber-ii](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
@@ -955,6 +956,7 @@ A collection of some of the important LeetCode questions I did to ace my coding 
 | [0150-evaluate-reverse-polish-notation](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0202-happy-number) |
+| [0204-count-primes](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0204-count-primes) |
 | [0224-basic-calculator](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0224-basic-calculator) |
 | [0233-number-of-digit-one](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0233-number-of-digit-one) |
 | [0241-different-ways-to-add-parentheses](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0241-different-ways-to-add-parentheses) |
@@ -1339,6 +1341,7 @@ A collection of some of the important LeetCode questions I did to ace my coding 
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0204-count-primes) |
 | [0989-largest-component-size-by-common-factor](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0989-largest-component-size-by-common-factor) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/bPratyush/LeetCode-Solutions/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Minimum Spanning Tree
@@ -1438,4 +1441,8 @@ A collection of some of the important LeetCode questions I did to ace my coding 
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0214-shortest-palindrome) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
