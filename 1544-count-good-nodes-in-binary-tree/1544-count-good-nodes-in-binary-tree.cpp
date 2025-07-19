@@ -11,10 +11,10 @@
  */
 class Solution {
 public:
-    int ans;
-    void dfs(TreeNode* root, int maxi){
+    int res;
+    void dfs(TreeNode*root,int maxi){
         if(!root) return;
-        if(root->val>=maxi) ans++;
+        if(root->val>=maxi) res++;
         maxi=max(root->val,maxi);
         dfs(root->left,maxi);
         dfs(root->right,maxi);
@@ -22,6 +22,6 @@ public:
     int goodNodes(TreeNode* root) {
         int maxi=root->val;
         dfs(root,maxi);
-        return ans;
+        return res;
     }
 };
