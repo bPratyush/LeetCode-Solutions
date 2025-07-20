@@ -276,6 +276,7 @@ A collection of some of the important LeetCode questions I did to ace my coding 
 | [0300-longest-increasing-subsequence](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0354-russian-doll-envelopes](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0354-russian-doll-envelopes) |
+| [0374-guess-number-higher-or-lower](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0374-guess-number-higher-or-lower) |
 | [0658-find-k-closest-elements](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0658-find-k-closest-elements) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0729-my-calendar-i](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0729-my-calendar-i) |
@@ -1422,6 +1423,7 @@ A collection of some of the important LeetCode questions I did to ace my coding 
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0278-first-bad-version) |
+| [0374-guess-number-higher-or-lower](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0374-guess-number-higher-or-lower) |
 ## Geometry
 |  |
 | ------- |
