@@ -98,6 +98,7 @@ A collection of some of the important LeetCode questions I did to ace my coding 
 | [0399-evaluate-division](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0399-evaluate-division) |
 | [0416-partition-equal-subset-sum](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0417-pacific-atlantic-water-flow) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0435-non-overlapping-intervals](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -418,6 +419,7 @@ A collection of some of the important LeetCode questions I did to ace my coding 
 | [0380-insert-delete-getrandom-o1](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0383-ransom-note](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0383-ransom-note) |
 | [0409-longest-palindrome](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0409-longest-palindrome) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0424-longest-repeating-character-replacement](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0432-all-oone-data-structure](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0432-all-oone-data-structure) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -1093,6 +1095,7 @@ A collection of some of the important LeetCode questions I did to ace my coding 
 | [0139-word-break](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0386-lexicographical-numbers](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0386-lexicographical-numbers) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0440-k-th-smallest-in-lexicographical-order) |
 | [0692-top-k-frequent-words](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0692-top-k-frequent-words) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/bPratyush/LeetCode-Solutions/tree/master/2494-sum-of-prefix-scores-of-strings) |
@@ -1241,6 +1244,7 @@ A collection of some of the important LeetCode questions I did to ace my coding 
 | [0287-find-the-duplicate-number](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0338-counting-bits) |
 | [0371-sum-of-two-integers](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0371-sum-of-two-integers) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0461-hamming-distance](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0461-hamming-distance) |
 | [0476-number-complement](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0476-number-complement) |
 | [0645-set-mismatch](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0645-set-mismatch) |
