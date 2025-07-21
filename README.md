@@ -55,6 +55,7 @@ A collection of some of the important LeetCode questions I did to ace my coding 
 | [0135-candy](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0139-word-break](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0139-word-break) |
+| [0149-max-points-on-a-line](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -404,6 +405,7 @@ A collection of some of the important LeetCode questions I did to ace my coding 
 | [0141-linked-list-cycle](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0146-lru-cache) |
+| [0149-max-points-on-a-line](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0149-max-points-on-a-line) |
 | [0160-intersection-of-two-linked-lists](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0202-happy-number) |
@@ -963,6 +965,7 @@ A collection of some of the important LeetCode questions I did to ace my coding 
 | [0062-unique-paths](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
+| [0149-max-points-on-a-line](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0202-happy-number) |
@@ -1438,6 +1441,7 @@ A collection of some of the important LeetCode questions I did to ace my coding 
 ## Geometry
 |  |
 | ------- |
+| [0149-max-points-on-a-line](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0149-max-points-on-a-line) |
 | [1014-k-closest-points-to-origin](https://github.com/bPratyush/LeetCode-Solutions/tree/master/1014-k-closest-points-to-origin) |
 ## Monotonic Queue
 |  |
