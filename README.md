@@ -81,6 +81,7 @@ A collection of some of the important LeetCode questions I did to ace my coding 
 | [0274-h-index](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0274-h-index) |
 | [0275-h-index-ii](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0275-h-index-ii) |
 | [0283-move-zeroes](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0283-move-zeroes) |
+| [0284-peeking-iterator](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0284-peeking-iterator) |
 | [0287-find-the-duplicate-number](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0289-game-of-life](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0289-game-of-life) |
 | [0300-longest-increasing-subsequence](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0300-longest-increasing-subsequence) |
@@ -1004,6 +1005,7 @@ A collection of some of the important LeetCode questions I did to ace my coding 
 | [0208-implement-trie-prefix-tree](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0225-implement-stack-using-queues](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0232-implement-queue-using-stacks) |
+| [0284-peeking-iterator](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0284-peeking-iterator) |
 | [0295-find-median-from-data-stream](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0295-find-median-from-data-stream) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0380-insert-delete-getrandom-o1](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0380-insert-delete-getrandom-o1) |
@@ -1234,6 +1236,7 @@ A collection of some of the important LeetCode questions I did to ace my coding 
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0173-binary-search-tree-iterator) |
+| [0284-peeking-iterator](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0284-peeking-iterator) |
 ## Bit Manipulation
 |  |
 | ------- |
