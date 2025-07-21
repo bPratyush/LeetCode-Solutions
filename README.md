@@ -933,6 +933,7 @@ A collection of some of the important LeetCode questions I did to ace my coding 
 | ------- |
 | [0043-multiply-strings](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
+| [0258-add-digits](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0258-add-digits) |
 | [0289-game-of-life](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0289-game-of-life) |
 | [0735-asteroid-collision](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0735-asteroid-collision) |
 | [0874-backspace-string-compare](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0874-backspace-string-compare) |
@@ -967,6 +968,7 @@ A collection of some of the important LeetCode questions I did to ace my coding 
 | [0224-basic-calculator](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0224-basic-calculator) |
 | [0233-number-of-digit-one](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0233-number-of-digit-one) |
 | [0241-different-ways-to-add-parentheses](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0241-different-ways-to-add-parentheses) |
+| [0258-add-digits](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0258-add-digits) |
 | [0264-ugly-number-ii](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0279-perfect-squares](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0279-perfect-squares) |
@@ -1351,6 +1353,7 @@ A collection of some of the important LeetCode questions I did to ace my coding 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0204-count-primes) |
+| [0258-add-digits](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0258-add-digits) |
 | [0989-largest-component-size-by-common-factor](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0989-largest-component-size-by-common-factor) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/bPratyush/LeetCode-Solutions/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Minimum Spanning Tree
