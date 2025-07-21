@@ -98,6 +98,7 @@ A collection of some of the important LeetCode questions I did to ace my coding 
 | [0377-combination-sum-iv](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0377-combination-sum-iv) |
 | [0380-insert-delete-getrandom-o1](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0399-evaluate-division](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0399-evaluate-division) |
+| [0413-arithmetic-slices](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0413-arithmetic-slices) |
 | [0416-partition-equal-subset-sum](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
@@ -546,6 +547,7 @@ A collection of some of the important LeetCode questions I did to ace my coding 
 | [0368-largest-divisible-subset](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0368-largest-divisible-subset) |
 | [0377-combination-sum-iv](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0377-combination-sum-iv) |
 | [0392-is-subsequence](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0392-is-subsequence) |
+| [0413-arithmetic-slices](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0413-arithmetic-slices) |
 | [0416-partition-equal-subset-sum](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0486-predict-the-winner](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
@@ -1128,6 +1130,7 @@ A collection of some of the important LeetCode questions I did to ace my coding 
 | [0209-minimum-size-subarray-sum](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0239-sliding-window-maximum) |
+| [0413-arithmetic-slices](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0413-arithmetic-slices) |
 | [0424-longest-repeating-character-replacement](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0643-maximum-average-subarray-i) |
