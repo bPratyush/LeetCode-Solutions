@@ -1,17 +1,13 @@
 class Solution {
 public:
-int stringrev(int x) {
-    int r = 0;
-    while (x != 0) {
-        if (r > (INT_MAX - x % 10) / 10) return 0;
-        r = r * 10 + x % 10;
-        x /= 10;
-    }
-    return r;
-}
-
 bool isPalindrome(int x) {
-    if (x < 0) return false;
-    return x == stringrev(x);
-}
+    if(x<0) return false;
+    int revx=0, origx=x;
+    while(x){
+        if(revx>(INT_MAX-x%10)/10) return 0;
+        revx=revx*10+x%10;
+        x/=10;
+    }
+    return origx==revx;
+    }
 };
