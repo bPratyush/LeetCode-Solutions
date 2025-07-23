@@ -378,6 +378,7 @@ A collection of some of the important LeetCode questions I did to ace my coding 
 | [0982-minimum-increment-to-make-array-unique](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [0991-array-of-doubled-pairs](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0991-array-of-doubled-pairs) |
 | [1388-greatest-sum-divisible-by-three](https://github.com/bPratyush/LeetCode-Solutions/tree/master/1388-greatest-sum-divisible-by-three) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/bPratyush/LeetCode-Solutions/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/bPratyush/LeetCode-Solutions/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2379-maximum-total-importance-of-roads](https://github.com/bPratyush/LeetCode-Solutions/tree/master/2379-maximum-total-importance-of-roads) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/bPratyush/LeetCode-Solutions/tree/master/2497-maximum-matching-of-players-with-trainers) |
@@ -671,6 +672,7 @@ A collection of some of the important LeetCode questions I did to ace my coding 
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/bPratyush/LeetCode-Solutions/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/bPratyush/LeetCode-Solutions/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/bPratyush/LeetCode-Solutions/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/bPratyush/LeetCode-Solutions/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1894-merge-strings-alternately](https://github.com/bPratyush/LeetCode-Solutions/tree/master/1894-merge-strings-alternately) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/bPratyush/LeetCode-Solutions/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/bPratyush/LeetCode-Solutions/tree/master/2134-maximize-the-confusion-of-an-exam) |
@@ -1085,6 +1087,7 @@ A collection of some of the important LeetCode questions I did to ace my coding 
 | [0943-sum-of-subarray-minimums](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0943-sum-of-subarray-minimums) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/bPratyush/LeetCode-Solutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/bPratyush/LeetCode-Solutions/tree/master/1497-design-a-stack-with-increment-operation) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/bPratyush/LeetCode-Solutions/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2227-sum-of-subarray-ranges](https://github.com/bPratyush/LeetCode-Solutions/tree/master/2227-sum-of-subarray-ranges) |
 ## Monotonic Stack
 |  |
