@@ -2,6 +2,7 @@ class Solution {
 public:
     int networkDelayTime(vector<vector<int>>& times, int n, int k) {
         vector<int>dist(n,INT_MAX);
+        int res=0;
         dist[k-1]=0;
         for(int i=1;i<n;i++){
             for(auto e:times){
@@ -10,6 +11,8 @@ public:
                 dist[v-1]=min(dist[v-1],dist[u-1]+w);
             }
         }
-        return (*max_element(dist.begin(),dist.end())==INT_MAX) ? -1 : (*max_element(dist.begin(),dist.end()));
+        res=*max_element(dist.begin(),dist.end());
+        if(res==INT_MAX) return -1;
+        return res;
     }
 };
