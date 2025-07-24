@@ -1,31 +1,20 @@
 class Solution {
 public:
     int divide(int dividend, int divisor) {
-        // Handle the case where dividend is equal to divisor
-        if (dividend == divisor) return 1;
-
-        unsigned int ans = 0;
-        int sign = 1;
-
-        // Determine the sign of the result
-        if ((dividend < 0 && divisor > 0) || (dividend > 0 && divisor < 0))
-            sign = -1;
-
-        // Convert both dividend and divisor to positive integers
-        unsigned int n = abs(dividend), d = abs(divisor);
-
-        // Perform the division
-        while (n >= d) {
-            int count = 0;
-            while (n > (d << (count + 1)))
-                count++;
-            n -= d << count;
-            ans += 1 << count;
+        if(dividend==divisor) return 1;
+        if(dividend==INT_MIN && divisor==-1) return INT_MAX;
+        unsigned int res=0;
+        int sgn=1;
+        if((dividend<0&&divisor>0)||(dividend>0&&divisor<0)) sgn=-1;
+        unsigned int dvd = abs((long long)dividend);
+        unsigned int div = abs((long long)divisor);
+        while(dvd>=div){
+            int cnt=0;
+            while(dvd>(div<<(cnt+1))) cnt++;
+            dvd-=div<<cnt;
+            res+=1<<cnt;
         }
-
-        // Handle overflow case
-        if (ans == (1 << 31) && sign == 1) return INT_MAX;
-
-        return sign * ans;
+        if(res==(1<<31)&&sgn==1) return INT_MAX;
+        return sgn*res;
     }
 };
