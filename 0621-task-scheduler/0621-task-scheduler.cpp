@@ -4,9 +4,7 @@ public:
         unordered_map<char,int>freq;
         priority_queue<int>pq;
         for(char c:tasks) freq[c]++;
-        for (auto& p : freq) {
-            pq.push(p.second);
-        }
+        for (auto& p : freq) pq.push(p.second);
         int tm=0;
         while(!pq.empty()){
             int cyc=n+1;
