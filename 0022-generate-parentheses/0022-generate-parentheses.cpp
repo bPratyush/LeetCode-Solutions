@@ -1,8 +1,10 @@
 class Solution {
 public:
-    void helper(vector<string> &ans, int open, int close, string& curr, int n)
-    {
-        if(curr.length()==2*n) {ans.push_back(curr); return;}
+    void helper(vector<string> &ans, int open, int close, string& curr, int n){
+        if(curr.length()==2*n){
+            ans.push_back(curr); 
+            return;
+        }
         if(open<n){
             curr.push_back('(');
             helper(ans,open+1,close,curr,n);
