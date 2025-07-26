@@ -216,6 +216,7 @@ A collection of some of the important LeetCode questions I did to ace my coding 
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/bPratyush/LeetCode-Solutions/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/bPratyush/LeetCode-Solutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/bPratyush/LeetCode-Solutions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+| [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/bPratyush/LeetCode-Solutions/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 ## Two Pointers
 |  |
 | ------- |
@@ -1064,6 +1065,7 @@ A collection of some of the important LeetCode questions I did to ace my coding 
 | [1966-frequency-of-the-most-frequent-element](https://github.com/bPratyush/LeetCode-Solutions/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/bPratyush/LeetCode-Solutions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/bPratyush/LeetCode-Solutions/tree/master/2134-maximize-the-confusion-of-an-exam) |
+| [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/bPratyush/LeetCode-Solutions/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 ## Stack
 |  |
 | ------- |
@@ -1446,6 +1448,7 @@ A collection of some of the important LeetCode questions I did to ace my coding 
 | [0673-number-of-longest-increasing-subsequence](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0729-my-calendar-i](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0731-my-calendar-ii) |
+| [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/bPratyush/LeetCode-Solutions/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 ## Queue
 |  |
 | ------- |
@@ -1487,4 +1490,5 @@ A collection of some of the important LeetCode questions I did to ace my coding 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0204-count-primes) |
+| [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/bPratyush/LeetCode-Solutions/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 <!---LeetCode Topics End-->
