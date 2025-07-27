@@ -11,8 +11,8 @@ class DSU{
         return par[u]=findpar(par[u]);
     }
     void unite(int u,int v){
-        int ulp=par[u];
-        int ulv=par[v];
+        int ulp=findpar(u);
+        int ulv=findpar(v);
         if(ulp==ulv) return;
         if(rank[ulp]<rank[ulv]) par[ulp]=ulv;
         else if(rank[ulv]<rank[ulp]) par[ulv]=ulp;
