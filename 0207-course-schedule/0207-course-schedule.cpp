@@ -11,7 +11,7 @@ public:
         }
         queue<int>q;
         for(int i=0;i<n;i++){
-            if(indeg[i]==0) q.push(i);
+            if(!indeg[i]) q.push(i);
         }
         int cnt=0;
         while(!q.empty()){
@@ -21,7 +21,7 @@ public:
             for(int v=0;v<n;v++){
                 if(adj[u][v]==1){
                     indeg[v]--;
-                    if(indeg[v]==0) q.push(v);
+                    if(!indeg[v]) q.push(v);
                 }
             }
         }
