@@ -1,28 +1,22 @@
 class Solution {
 public:
-    void solve(int ind, vector<int>& candidates, int target, vector<vector<int>>& res, vector<int>& op) {
-    // Base case: if target is 0, add the current combination to the result
-    if (target == 0) {
+void bt(int idx,vector<int>&cand,int target,vector<vector<int>>&res,vector<int>&op){
+    if(target==0){
         res.push_back(op);
         return;
     }
-
-    // Explore each candidate starting from index `ind`
-    for (int i = ind; i < candidates.size(); ++i) {
-        if (candidates[i] <= target) {
-            // Include the current candidate and move forward
-            op.push_back(candidates[i]);
-            solve(i, candidates, target - candidates[i], res, op);
-            // Backtrack to explore other combinations
+    for(int i=idx;i<cand.size();i++){
+        if(cand[i]<=target){
+            op.push_back(cand[i]);
+            bt(i,cand,target-cand[i],res,op);
             op.pop_back();
         }
     }
 }
-
 vector<vector<int>> combinationSum(vector<int>& candidates, int target) {
-    vector<vector<int>> res;
-    vector<int> op;
-    solve(0, candidates, target, res, op);
+    vector<vector<int>>res;
+    vector<int>op;
+    bt(0,candidates,target,res,op);
     return res;
-}
+    }
 };
