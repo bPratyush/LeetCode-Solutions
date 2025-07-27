@@ -741,6 +741,7 @@ A collection of some of the important LeetCode questions I did to ace my coding 
 | [1171-shortest-path-in-binary-matrix](https://github.com/bPratyush/LeetCode-Solutions/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/bPratyush/LeetCode-Solutions/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1484-linked-list-in-binary-tree](https://github.com/bPratyush/LeetCode-Solutions/tree/master/1484-linked-list-in-binary-tree) |
+| [1492-time-needed-to-inform-all-employees](https://github.com/bPratyush/LeetCode-Solutions/tree/master/1492-time-needed-to-inform-all-employees) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/bPratyush/LeetCode-Solutions/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/bPratyush/LeetCode-Solutions/tree/master/1663-detect-cycles-in-2d-grid) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/bPratyush/LeetCode-Solutions/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
@@ -794,6 +795,7 @@ A collection of some of the important LeetCode questions I did to ace my coding 
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/bPratyush/LeetCode-Solutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/bPratyush/LeetCode-Solutions/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/bPratyush/LeetCode-Solutions/tree/master/1484-linked-list-in-binary-tree) |
+| [1492-time-needed-to-inform-all-employees](https://github.com/bPratyush/LeetCode-Solutions/tree/master/1492-time-needed-to-inform-all-employees) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/bPratyush/LeetCode-Solutions/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/bPratyush/LeetCode-Solutions/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 ## Depth-First Search
@@ -859,6 +861,7 @@ A collection of some of the important LeetCode questions I did to ace my coding 
 | [1442-number-of-operations-to-make-network-connected](https://github.com/bPratyush/LeetCode-Solutions/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/bPratyush/LeetCode-Solutions/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/bPratyush/LeetCode-Solutions/tree/master/1484-linked-list-in-binary-tree) |
+| [1492-time-needed-to-inform-all-employees](https://github.com/bPratyush/LeetCode-Solutions/tree/master/1492-time-needed-to-inform-all-employees) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/bPratyush/LeetCode-Solutions/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/bPratyush/LeetCode-Solutions/tree/master/1663-detect-cycles-in-2d-grid) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/bPratyush/LeetCode-Solutions/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
