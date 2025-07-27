@@ -208,6 +208,7 @@ A collection of some of the important LeetCode questions I did to ace my coding 
 | [2155-find-missing-observations](https://github.com/bPratyush/LeetCode-Solutions/tree/master/2155-find-missing-observations) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/bPratyush/LeetCode-Solutions/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2227-sum-of-subarray-ranges](https://github.com/bPratyush/LeetCode-Solutions/tree/master/2227-sum-of-subarray-ranges) |
+| [2316-count-hills-and-valleys-in-an-array](https://github.com/bPratyush/LeetCode-Solutions/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2411-spiral-matrix-iv](https://github.com/bPratyush/LeetCode-Solutions/tree/master/2411-spiral-matrix-iv) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/bPratyush/LeetCode-Solutions/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/bPratyush/LeetCode-Solutions/tree/master/2497-maximum-matching-of-players-with-trainers) |
