@@ -178,6 +178,7 @@ A collection of some of the important LeetCode questions I did to ace my coding 
 | [1130-last-stone-weight-ii](https://github.com/bPratyush/LeetCode-Solutions/tree/master/1130-last-stone-weight-ii) |
 | [1145-number-of-submatrices-that-sum-to-target](https://github.com/bPratyush/LeetCode-Solutions/tree/master/1145-number-of-submatrices-that-sum-to-target) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/bPratyush/LeetCode-Solutions/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1184-car-pooling](https://github.com/bPratyush/LeetCode-Solutions/tree/master/1184-car-pooling) |
 | [1240-stone-game-ii](https://github.com/bPratyush/LeetCode-Solutions/tree/master/1240-stone-game-ii) |
 | [1325-path-with-maximum-probability](https://github.com/bPratyush/LeetCode-Solutions/tree/master/1325-path-with-maximum-probability) |
 | [1330-longest-arithmetic-subsequence-of-given-difference](https://github.com/bPratyush/LeetCode-Solutions/tree/master/1330-longest-arithmetic-subsequence-of-given-difference) |
@@ -357,6 +358,7 @@ A collection of some of the important LeetCode questions I did to ace my coding 
 | [1019-squares-of-a-sorted-array](https://github.com/bPratyush/LeetCode-Solutions/tree/master/1019-squares-of-a-sorted-array) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/bPratyush/LeetCode-Solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1129-longest-string-chain](https://github.com/bPratyush/LeetCode-Solutions/tree/master/1129-longest-string-chain) |
+| [1184-car-pooling](https://github.com/bPratyush/LeetCode-Solutions/tree/master/1184-car-pooling) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/bPratyush/LeetCode-Solutions/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1388-greatest-sum-divisible-by-three](https://github.com/bPratyush/LeetCode-Solutions/tree/master/1388-greatest-sum-divisible-by-three) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/bPratyush/LeetCode-Solutions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
@@ -979,6 +981,7 @@ A collection of some of the important LeetCode questions I did to ace my coding 
 | [0874-backspace-string-compare](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0874-backspace-string-compare) |
 | [0906-walking-robot-simulation](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0906-walking-robot-simulation) |
 | [0921-spiral-matrix-iii](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0921-spiral-matrix-iii) |
+| [1184-car-pooling](https://github.com/bPratyush/LeetCode-Solutions/tree/master/1184-car-pooling) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/bPratyush/LeetCode-Solutions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/bPratyush/LeetCode-Solutions/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/bPratyush/LeetCode-Solutions/tree/master/2132-convert-1d-array-into-2d-array) |
@@ -1074,6 +1077,7 @@ A collection of some of the important LeetCode questions I did to ace my coding 
 | [1016-subarray-sums-divisible-by-k](https://github.com/bPratyush/LeetCode-Solutions/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/bPratyush/LeetCode-Solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1145-number-of-submatrices-that-sum-to-target](https://github.com/bPratyush/LeetCode-Solutions/tree/master/1145-number-of-submatrices-that-sum-to-target) |
+| [1184-car-pooling](https://github.com/bPratyush/LeetCode-Solutions/tree/master/1184-car-pooling) |
 | [1240-stone-game-ii](https://github.com/bPratyush/LeetCode-Solutions/tree/master/1240-stone-game-ii) |
 | [1321-get-equal-substrings-within-budget](https://github.com/bPratyush/LeetCode-Solutions/tree/master/1321-get-equal-substrings-within-budget) |
 | [1435-xor-queries-of-a-subarray](https://github.com/bPratyush/LeetCode-Solutions/tree/master/1435-xor-queries-of-a-subarray) |
@@ -1395,6 +1399,7 @@ A collection of some of the important LeetCode questions I did to ace my coding 
 | [0803-cheapest-flights-within-k-stops](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1014-k-closest-points-to-origin](https://github.com/bPratyush/LeetCode-Solutions/tree/master/1014-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/bPratyush/LeetCode-Solutions/tree/master/1127-last-stone-weight) |
+| [1184-car-pooling](https://github.com/bPratyush/LeetCode-Solutions/tree/master/1184-car-pooling) |
 | [1325-path-with-maximum-probability](https://github.com/bPratyush/LeetCode-Solutions/tree/master/1325-path-with-maximum-probability) |
 | [1753-path-with-minimum-effort](https://github.com/bPratyush/LeetCode-Solutions/tree/master/1753-path-with-minimum-effort) |
 | [2379-maximum-total-importance-of-roads](https://github.com/bPratyush/LeetCode-Solutions/tree/master/2379-maximum-total-importance-of-roads) |
