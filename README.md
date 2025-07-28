@@ -181,6 +181,7 @@ A collection of some of the important LeetCode questions I did to ace my coding 
 | [1184-car-pooling](https://github.com/bPratyush/LeetCode-Solutions/tree/master/1184-car-pooling) |
 | [1240-stone-game-ii](https://github.com/bPratyush/LeetCode-Solutions/tree/master/1240-stone-game-ii) |
 | [1325-path-with-maximum-probability](https://github.com/bPratyush/LeetCode-Solutions/tree/master/1325-path-with-maximum-probability) |
+| [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/bPratyush/LeetCode-Solutions/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1330-longest-arithmetic-subsequence-of-given-difference](https://github.com/bPratyush/LeetCode-Solutions/tree/master/1330-longest-arithmetic-subsequence-of-given-difference) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/bPratyush/LeetCode-Solutions/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1370-count-number-of-nice-subarrays](https://github.com/bPratyush/LeetCode-Solutions/tree/master/1370-count-number-of-nice-subarrays) |
@@ -393,6 +394,7 @@ A collection of some of the important LeetCode questions I did to ace my coding 
 | [0890-lemonade-change](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0890-lemonade-change) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [0991-array-of-doubled-pairs](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0991-array-of-doubled-pairs) |
+| [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/bPratyush/LeetCode-Solutions/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1388-greatest-sum-divisible-by-three](https://github.com/bPratyush/LeetCode-Solutions/tree/master/1388-greatest-sum-divisible-by-three) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/bPratyush/LeetCode-Solutions/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/bPratyush/LeetCode-Solutions/tree/master/1966-frequency-of-the-most-frequent-element) |
@@ -1030,6 +1032,7 @@ A collection of some of the important LeetCode questions I did to ace my coding 
 | [1014-k-closest-points-to-origin](https://github.com/bPratyush/LeetCode-Solutions/tree/master/1014-k-closest-points-to-origin) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/bPratyush/LeetCode-Solutions/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1240-stone-game-ii](https://github.com/bPratyush/LeetCode-Solutions/tree/master/1240-stone-game-ii) |
+| [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/bPratyush/LeetCode-Solutions/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1370-count-number-of-nice-subarrays](https://github.com/bPratyush/LeetCode-Solutions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1610-xor-operation-in-an-array](https://github.com/bPratyush/LeetCode-Solutions/tree/master/1610-xor-operation-in-an-array) |
 | [2155-find-missing-observations](https://github.com/bPratyush/LeetCode-Solutions/tree/master/2155-find-missing-observations) |
