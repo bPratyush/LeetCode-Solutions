@@ -146,6 +146,7 @@ A collection of some of the important LeetCode questions I did to ace my coding 
 | [0859-design-circular-deque](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0859-design-circular-deque) |
 | [0870-magic-squares-in-grid](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0870-magic-squares-in-grid) |
 | [0879-maximize-distance-to-closest-person](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0879-maximize-distance-to-closest-person) |
+| [0882-peak-index-in-a-mountain-array](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0883-car-fleet](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0883-car-fleet) |
 | [0890-lemonade-change](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0890-lemonade-change) |
 | [0906-walking-robot-simulation](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0906-walking-robot-simulation) |
@@ -298,6 +299,7 @@ A collection of some of the important LeetCode questions I did to ace my coding 
 | [0745-find-smallest-letter-greater-than-target](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0792-binary-search) |
 | [0794-swim-in-rising-water](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0794-swim-in-rising-water) |
+| [0882-peak-index-in-a-mountain-array](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0907-koko-eating-bananas) |
 | [0912-random-pick-with-weight](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0912-random-pick-with-weight) |
 | [1023-time-based-key-value-store](https://github.com/bPratyush/LeetCode-Solutions/tree/master/1023-time-based-key-value-store) |
