@@ -9,7 +9,7 @@ public:
             for(int j=0;j<m;j++){
                 if(grid[i][j]==2){
                     q.push({{i,j},0});
-                    vis[i][j]=2;
+                    vis[i][j]=true;
                 }
             }
         }
@@ -22,15 +22,15 @@ public:
             for(int i=0;i<4;i++){
                 int nr=r+dr[i][0];
                 int nc=c+dr[i][1];
-                if(nr>=0&&nr<n&&nc>=0&&nc<m&&vis[nr][nc]!=2&&grid[nr][nc]==1){
+                if(nr>=0&&nr<n&&nc>=0&&nc<m&&!vis[nr][nc]&&grid[nr][nc]==1){
                     q.push({{nr,nc},tm+1});
-                    vis[nr][nc]=2;
+                    vis[nr][nc]=true;
                 }
             }
         }
         for(int i=0;i<n;i++){
             for(int j=0;j<m;j++){
-                if(vis[i][j]!=2&&grid[i][j]==1) return -1;
+                if(!vis[i][j]&&grid[i][j]==1) return -1;
             }
         }
         return t;
