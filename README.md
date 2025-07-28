@@ -97,6 +97,7 @@ A collection of some of the important LeetCode questions I did to ace my coding 
 | [0347-top-k-frequent-elements](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0354-russian-doll-envelopes](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0354-russian-doll-envelopes) |
 | [0368-largest-divisible-subset](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0368-largest-divisible-subset) |
+| [0376-wiggle-subsequence](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0376-wiggle-subsequence) |
 | [0377-combination-sum-iv](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0377-combination-sum-iv) |
 | [0380-insert-delete-getrandom-o1](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0399-evaluate-division](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0399-evaluate-division) |
@@ -380,6 +381,7 @@ A collection of some of the important LeetCode questions I did to ace my coding 
 | [0179-largest-number](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0179-largest-number) |
 | [0316-remove-duplicate-letters](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0316-remove-duplicate-letters) |
 | [0334-increasing-triplet-subsequence](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0334-increasing-triplet-subsequence) |
+| [0376-wiggle-subsequence](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0376-wiggle-subsequence) |
 | [0402-remove-k-digits](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0409-longest-palindrome) |
 | [0435-non-overlapping-intervals](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0435-non-overlapping-intervals) |
@@ -569,6 +571,7 @@ A collection of some of the important LeetCode questions I did to ace my coding 
 | [0354-russian-doll-envelopes](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0354-russian-doll-envelopes) |
 | [0357-count-numbers-with-unique-digits](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0357-count-numbers-with-unique-digits) |
 | [0368-largest-divisible-subset](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0368-largest-divisible-subset) |
+| [0376-wiggle-subsequence](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0376-wiggle-subsequence) |
 | [0377-combination-sum-iv](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0377-combination-sum-iv) |
 | [0392-is-subsequence](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0392-is-subsequence) |
 | [0413-arithmetic-slices](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0413-arithmetic-slices) |
