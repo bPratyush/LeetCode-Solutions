@@ -1041,6 +1041,7 @@ A collection of some of the important LeetCode questions I did to ace my coding 
 | [1240-stone-game-ii](https://github.com/bPratyush/LeetCode-Solutions/tree/master/1240-stone-game-ii) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/bPratyush/LeetCode-Solutions/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1370-count-number-of-nice-subarrays](https://github.com/bPratyush/LeetCode-Solutions/tree/master/1370-count-number-of-nice-subarrays) |
+| [1401-number-of-burgers-with-no-waste-of-ingredients](https://github.com/bPratyush/LeetCode-Solutions/tree/master/1401-number-of-burgers-with-no-waste-of-ingredients) |
 | [1610-xor-operation-in-an-array](https://github.com/bPratyush/LeetCode-Solutions/tree/master/1610-xor-operation-in-an-array) |
 | [2155-find-missing-observations](https://github.com/bPratyush/LeetCode-Solutions/tree/master/2155-find-missing-observations) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/bPratyush/LeetCode-Solutions/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
