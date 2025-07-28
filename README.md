@@ -189,6 +189,7 @@ A collection of some of the important LeetCode questions I did to ace my coding 
 | [1380-number-of-closed-islands](https://github.com/bPratyush/LeetCode-Solutions/tree/master/1380-number-of-closed-islands) |
 | [1388-greatest-sum-divisible-by-three](https://github.com/bPratyush/LeetCode-Solutions/tree/master/1388-greatest-sum-divisible-by-three) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/bPratyush/LeetCode-Solutions/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/bPratyush/LeetCode-Solutions/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/bPratyush/LeetCode-Solutions/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1435-xor-queries-of-a-subarray](https://github.com/bPratyush/LeetCode-Solutions/tree/master/1435-xor-queries-of-a-subarray) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/bPratyush/LeetCode-Solutions/tree/master/1497-design-a-stack-with-increment-operation) |
@@ -398,6 +399,7 @@ A collection of some of the important LeetCode questions I did to ace my coding 
 | [0991-array-of-doubled-pairs](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0991-array-of-doubled-pairs) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/bPratyush/LeetCode-Solutions/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1388-greatest-sum-divisible-by-three](https://github.com/bPratyush/LeetCode-Solutions/tree/master/1388-greatest-sum-divisible-by-three) |
+| [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/bPratyush/LeetCode-Solutions/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [1502-construct-k-palindrome-strings](https://github.com/bPratyush/LeetCode-Solutions/tree/master/1502-construct-k-palindrome-strings) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/bPratyush/LeetCode-Solutions/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/bPratyush/LeetCode-Solutions/tree/master/1966-frequency-of-the-most-frequent-element) |
@@ -479,6 +481,7 @@ A collection of some of the important LeetCode questions I did to ace my coding 
 | [1145-number-of-submatrices-that-sum-to-target](https://github.com/bPratyush/LeetCode-Solutions/tree/master/1145-number-of-submatrices-that-sum-to-target) |
 | [1330-longest-arithmetic-subsequence-of-given-difference](https://github.com/bPratyush/LeetCode-Solutions/tree/master/1330-longest-arithmetic-subsequence-of-given-difference) |
 | [1370-count-number-of-nice-subarrays](https://github.com/bPratyush/LeetCode-Solutions/tree/master/1370-count-number-of-nice-subarrays) |
+| [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/bPratyush/LeetCode-Solutions/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/bPratyush/LeetCode-Solutions/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1502-construct-k-palindrome-strings](https://github.com/bPratyush/LeetCode-Solutions/tree/master/1502-construct-k-palindrome-strings) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/bPratyush/LeetCode-Solutions/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
