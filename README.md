@@ -736,6 +736,7 @@ A collection of some of the important LeetCode questions I did to ace my coding 
 | [0854-making-a-large-island](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0854-making-a-large-island) |
 | [0871-keys-and-rooms](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0871-keys-and-rooms) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+| [0922-possible-bipartition](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0922-possible-bipartition) |
 | [0999-regions-cut-by-slashes](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0999-regions-cut-by-slashes) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/bPratyush/LeetCode-Solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1036-rotting-oranges](https://github.com/bPratyush/LeetCode-Solutions/tree/master/1036-rotting-oranges) |
@@ -856,6 +857,7 @@ A collection of some of the important LeetCode questions I did to ace my coding 
 | [0854-making-a-large-island](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0854-making-a-large-island) |
 | [0871-keys-and-rooms](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0871-keys-and-rooms) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+| [0922-possible-bipartition](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0922-possible-bipartition) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0999-regions-cut-by-slashes](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0999-regions-cut-by-slashes) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/bPratyush/LeetCode-Solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -1188,6 +1190,7 @@ A collection of some of the important LeetCode questions I did to ace my coding 
 | [0794-swim-in-rising-water](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0794-swim-in-rising-water) |
 | [0801-is-graph-bipartite](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0801-is-graph-bipartite) |
 | [0854-making-a-large-island](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0854-making-a-large-island) |
+| [0922-possible-bipartition](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0922-possible-bipartition) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0989-largest-component-size-by-common-factor](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0989-largest-component-size-by-common-factor) |
 | [0999-regions-cut-by-slashes](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0999-regions-cut-by-slashes) |
@@ -1315,6 +1318,7 @@ A collection of some of the important LeetCode questions I did to ace my coding 
 | [0801-is-graph-bipartite](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0871-keys-and-rooms](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0871-keys-and-rooms) |
+| [0922-possible-bipartition](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0922-possible-bipartition) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1300-critical-connections-in-a-network](https://github.com/bPratyush/LeetCode-Solutions/tree/master/1300-critical-connections-in-a-network) |
 | [1325-path-with-maximum-probability](https://github.com/bPratyush/LeetCode-Solutions/tree/master/1325-path-with-maximum-probability) |
