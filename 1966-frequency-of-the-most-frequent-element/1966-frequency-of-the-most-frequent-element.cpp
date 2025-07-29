@@ -1,13 +1,12 @@
-//Non-Shrinkable
 class Solution {
 public:
-    int maxFrequency(vector<int>& A, int k) {
-        sort(begin(A), end(A));
-        long i = 0, j = 0, N = A.size(), sum = 0;
-        for (; j < N; ++j) {
-            sum += A[j];
-            if ((j - i + 1) * A[j] - sum > k) sum -= A[i++];
+    int maxFrequency(vector<int>& nums, int k) {
+        sort(nums.begin(),nums.end());
+        long i=0,j=0,sum=0;
+        for(;j<nums.size();j++){
+            sum+=nums[j];
+            if((j-i+1)*nums[j]-sum>k) sum-=nums[i++];
         }
-        return j - i;
+        return j-i;
     }
 };
