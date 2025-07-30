@@ -743,6 +743,7 @@ A collection of some of the important LeetCode questions I did to ace my coding 
 | [0530-minimum-absolute-difference-in-bst](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0542-01-matrix](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0547-number-of-provinces) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0684-redundant-connection](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0684-redundant-connection) |
@@ -808,6 +809,7 @@ A collection of some of the important LeetCode questions I did to ace my coding 
 | [0530-minimum-absolute-difference-in-bst](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0572-subtree-of-another-tree) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0671-second-minimum-node-in-a-binary-tree) |
@@ -864,6 +866,7 @@ A collection of some of the important LeetCode questions I did to ace my coding 
 | [0543-diameter-of-binary-tree](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0547-number-of-provinces) |
 | [0572-subtree-of-another-tree](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0572-subtree-of-another-tree) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0671-second-minimum-node-in-a-binary-tree) |
@@ -930,6 +933,7 @@ A collection of some of the important LeetCode questions I did to ace my coding 
 | [0530-minimum-absolute-difference-in-bst](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0572-subtree-of-another-tree) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0671-second-minimum-node-in-a-binary-tree) |
