@@ -1,18 +1,16 @@
 class Solution {
 public:
-    int compress(vector<char>& chars){
-        int k=1,m=0;
-        for(int i=1;i<=chars.size();i++){
-            if(i<chars.size() && chars[i]==chars[i-1]) k++;
-            else{
-                chars[m++]=chars[i-1];
-                if(k>1){
-                    string temp=to_string(k);
-                    for(char ch:temp) chars[m++]=ch;
-                }
-                k=1;
+    int compress(vector<char>& chars) {
+        int i=0,res=0,n=chars.size();
+        while(i<n){
+            int grplen=1;
+            while(i+grplen<n&&chars[i+grplen]==chars[i]) grplen++;
+            chars[res++]=chars[i];
+            if(grplen>1){
+                for(char c:to_string(grplen)) chars[res++]=c;
             }
+            i+=grplen;
         }
-        return m;
+        return res;
     }
 };
