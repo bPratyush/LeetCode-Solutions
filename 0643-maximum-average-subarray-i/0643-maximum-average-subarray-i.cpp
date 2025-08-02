@@ -7,11 +7,9 @@ public:
         res/=k;
         int l=0,r=k;
         while(r<nums.size()){
-            sum+=nums[r];
-            sum-=nums[l];
+            sum+=nums[r++];
+            sum-=nums[l++];
             res=max(res,sum/k);
-            l++;
-            r++;
         }
         return res;
     }
