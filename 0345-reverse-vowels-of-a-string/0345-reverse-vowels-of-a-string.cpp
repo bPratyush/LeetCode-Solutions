@@ -13,6 +13,7 @@ public:
                 swap(s[l],s[r]);
                 l++; r--;
             }
+            else break;
         }
         return s;
     }
