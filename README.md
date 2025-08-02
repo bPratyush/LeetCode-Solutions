@@ -278,6 +278,7 @@ A collection of some of the important LeetCode questions I did to ace my coding 
 | [1798-max-number-of-k-sum-pairs](https://github.com/bPratyush/LeetCode-Solutions/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1894-merge-strings-alternately](https://github.com/bPratyush/LeetCode-Solutions/tree/master/1894-merge-strings-alternately) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/bPratyush/LeetCode-Solutions/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/bPratyush/LeetCode-Solutions/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/bPratyush/LeetCode-Solutions/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## Binary Search
 |  |
@@ -1288,6 +1289,7 @@ A collection of some of the important LeetCode questions I did to ace my coding 
 | [0859-design-circular-deque](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0859-design-circular-deque) |
 | [0908-middle-of-the-linked-list](https://github.com/bPratyush/LeetCode-Solutions/tree/master/0908-middle-of-the-linked-list) |
 | [1484-linked-list-in-binary-tree](https://github.com/bPratyush/LeetCode-Solutions/tree/master/1484-linked-list-in-binary-tree) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/bPratyush/LeetCode-Solutions/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2411-spiral-matrix-iv](https://github.com/bPratyush/LeetCode-Solutions/tree/master/2411-spiral-matrix-iv) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/bPratyush/LeetCode-Solutions/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/bPratyush/LeetCode-Solutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
