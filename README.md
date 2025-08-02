@@ -211,6 +211,7 @@ A collection of some of the important LeetCode questions I did to ace my coding 
 | [1833-find-the-highest-altitude](https://github.com/bPratyush/LeetCode-Solutions/tree/master/1833-find-the-highest-altitude) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/bPratyush/LeetCode-Solutions/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/bPratyush/LeetCode-Solutions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2038-nearest-exit-from-entrance-in-maze](https://github.com/bPratyush/LeetCode-Solutions/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/bPratyush/LeetCode-Solutions/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2119-minimum-number-of-operations-to-make-array-continuous](https://github.com/bPratyush/LeetCode-Solutions/tree/master/2119-minimum-number-of-operations-to-make-array-continuous) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/bPratyush/LeetCode-Solutions/tree/master/2132-convert-1d-array-into-2d-array) |
@@ -781,6 +782,7 @@ A collection of some of the important LeetCode questions I did to ace my coding 
 | [1663-detect-cycles-in-2d-grid](https://github.com/bPratyush/LeetCode-Solutions/tree/master/1663-detect-cycles-in-2d-grid) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/bPratyush/LeetCode-Solutions/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [1753-path-with-minimum-effort](https://github.com/bPratyush/LeetCode-Solutions/tree/master/1753-path-with-minimum-effort) |
+| [2038-nearest-exit-from-entrance-in-maze](https://github.com/bPratyush/LeetCode-Solutions/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/bPratyush/LeetCode-Solutions/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 ## Tree
 |  |
@@ -995,6 +997,7 @@ A collection of some of the important LeetCode questions I did to ace my coding 
 | [1663-detect-cycles-in-2d-grid](https://github.com/bPratyush/LeetCode-Solutions/tree/master/1663-detect-cycles-in-2d-grid) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/bPratyush/LeetCode-Solutions/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [1753-path-with-minimum-effort](https://github.com/bPratyush/LeetCode-Solutions/tree/master/1753-path-with-minimum-effort) |
+| [2038-nearest-exit-from-entrance-in-maze](https://github.com/bPratyush/LeetCode-Solutions/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/bPratyush/LeetCode-Solutions/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2411-spiral-matrix-iv](https://github.com/bPratyush/LeetCode-Solutions/tree/master/2411-spiral-matrix-iv) |
 ## Simulation
